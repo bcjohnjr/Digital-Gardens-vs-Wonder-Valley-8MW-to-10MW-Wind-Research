@@ -1,0 +1,57 @@
+product,tier,case,market,npv_bn,irr,gas_twin_npv_bn
+GB300 NVL72,spot (conservative),Central,prices held each generation,89.86074,0.15437,82.42308
+GB300 NVL72,spot (conservative),Central,prices compress 15% per generation,-48.90737,-0.01664,-57.81004
+GB300 NVL72,spot (conservative),"GPU capital +38% (US$8.3 M per NVL72 rack, B300 pro rata)",prices held each generation,-47.62864,0.06315,-56.01267
+GB300 NVL72,spot (conservative),"GPU capital +38% (US$8.3 M per NVL72 rack, B300 pro rata)",prices compress 15% per generation,-196.68582,-0.14314,-206.67936
+GB300 NVL72,spot (conservative),Sold utilisation 70%,prices held each generation,-5.28417,0.08618,-4.34258
+GB300 NVL72,spot (conservative),Sold utilisation 70%,prices compress 15% per generation,-125.30718,-0.12169,-125.01830
+GB300 NVL72,spot (conservative),Sold utilisation 60%,prices held each generation,-71.07526,0.03798,-63.70173
+GB300 NVL72,spot (conservative),Sold utilisation 60%,prices compress 15% per generation,-178.99850,-0.16376,-171.83690
+GB300 NVL72,spot (conservative),Build-out over 3 years,prices held each generation,44.24595,0.11876,37.45019
+GB300 NVL72,spot (conservative),Build-out over 3 years,prices compress 15% per generation,-94.52216,-0.05266,-102.78292
+GB300 NVL72,spot (conservative),Contract prices -20%,prices held each generation,-42.57863,0.05841,-50.73561
+GB300 NVL72,spot (conservative),Contract prices -20%,prices compress 15% per generation,-155.10343,-0.13084,-165.09697
+GB300 NVL72,spot (conservative),All four adverse together,prices held each generation,-296.41615,-0.07382,-295.79541
+GB300 NVL72,spot (conservative),All four adverse together,prices compress 15% per generation,-401.97071,-0.21510,-401.83004
+GB300 NVL72,market on-demand,Central,prices held each generation,422.07649,0.37626,414.63883
+GB300 NVL72,market on-demand,Central,prices compress 15% per generation,223.16949,0.33694,215.05732
+GB300 NVL72,market on-demand,"GPU capital +38% (US$8.3 M per NVL72 rack, B300 pro rata)",prices held each generation,289.02604,0.24449,281.58838
+GB300 NVL72,market on-demand,"GPU capital +38% (US$8.3 M per NVL72 rack, B300 pro rata)",prices compress 15% per generation,86.70047,0.17843,78.45865
+GB300 NVL72,market on-demand,Sold utilisation 70%,prices held each generation,270.16683,0.27512,271.29776
+GB300 NVL72,market on-demand,Sold utilisation 70%,prices compress 15% per generation,104.57200,0.21878,105.24124
+GB300 NVL72,market on-demand,Sold utilisation 60%,prices held each generation,168.89372,0.20676,175.73705
+GB300 NVL72,market on-demand,Sold utilisation 60%,prices compress 15% per generation,24.55785,0.12502,31.36091
+GB300 NVL72,market on-demand,Build-out over 3 years,prices held each generation,346.28668,0.30371,339.49093
+GB300 NVL72,market on-demand,Build-out over 3 years,prices compress 15% per generation,147.37969,0.24299,139.90942
+GB300 NVL72,market on-demand,Contract prices -20%,prices held each generation,230.22456,0.25067,222.78690
+GB300 NVL72,market on-demand,Contract prices -20%,prices compress 15% per generation,67.19262,0.18279,58.92320
+GB300 NVL72,market on-demand,All four adverse together,prices held each generation,-64.07696,0.05686,-63.17764
+GB300 NVL72,market on-demand,All four adverse together,prices compress 15% per generation,-214.11113,-0.13481,-213.97584
+HGX B300,spot (conservative),Central,prices held each generation,126.72536,0.19032,115.81946
+HGX B300,spot (conservative),Central,prices compress 15% per generation,-5.36805,0.07939,-17.95510
+HGX B300,spot (conservative),"GPU capital +38% (US$8.3 M per NVL72 rack, B300 pro rata)",prices held each generation,9.99990,0.09627,-2.01905
+HGX B300,spot (conservative),"GPU capital +38% (US$8.3 M per NVL72 rack, B300 pro rata)",prices compress 15% per generation,-130.75529,-0.10765,-144.66483
+HGX B300,spot (conservative),Sold utilisation 70%,prices held each generation,35.03034,0.11795,33.28377
+HGX B300,spot (conservative),Sold utilisation 70%,prices compress 15% per generation,-79.19369,-0.07900,-81.96889
+HGX B300,spot (conservative),Sold utilisation 60%,prices held each generation,-28.90402,0.06671,-24.44730
+HGX B300,spot (conservative),Sold utilisation 60%,prices compress 15% per generation,-130.82233,-0.13689,-126.64010
+HGX B300,spot (conservative),Build-out over 3 years,prices held each generation,81.16099,0.14788,71.21201
+HGX B300,spot (conservative),Build-out over 3 years,prices compress 15% per generation,-50.93241,0.00747,-62.56254
+HGX B300,spot (conservative),Contract prices -20%,prices held each generation,0.31150,0.09025,-11.81795
+HGX B300,spot (conservative),Contract prices -20%,prices compress 15% per generation,-106.63226,-0.09663,-120.29111
+HGX B300,spot (conservative),All four adverse together,prices held each generation,-228.01398,-0.05016,-230.52653
+HGX B300,spot (conservative),All four adverse together,prices compress 15% per generation,-328.21343,-0.19965,-331.53268
+HGX B300,market on-demand,Central,prices held each generation,450.31212,0.42749,439.40622
+HGX B300,market on-demand,Central,prices compress 15% per generation,257.00033,0.39366,245.54234
+HGX B300,market on-demand,"GPU capital +38% (US$8.3 M per NVL72 rack, B300 pro rata)",prices held each generation,334.84334,0.28911,323.93744
+HGX B300,market on-demand,"GPU capital +38% (US$8.3 M per NVL72 rack, B300 pro rata)",prices compress 15% per generation,139.44899,0.23614,127.56998
+HGX B300,market on-demand,Sold utilisation 70%,prices held each generation,301.51357,0.31815,299.78830
+HGX B300,market on-demand,Sold utilisation 70%,prices compress 15% per generation,141.28433,0.27118,138.98872
+HGX B300,market on-demand,Sold utilisation 60%,prices held each generation,202.31453,0.24436,206.70969
+HGX B300,market on-demand,Sold utilisation 60%,prices compress 15% per generation,63.35649,0.18016,67.56093
+HGX B300,market on-demand,Build-out over 3 years,prices held each generation,375.35651,0.34372,365.40753
+HGX B300,market on-demand,Build-out over 3 years,prices compress 15% per generation,182.04471,0.29014,171.54364
+HGX B300,market on-demand,Contract prices -20%,prices held each generation,263.44337,0.29315,252.53747
+HGX B300,market on-demand,Contract prices -20%,prices compress 15% per generation,106.33386,0.23866,94.50579
+HGX B300,market on-demand,All four adverse together,prices held each generation,-10.93425,0.08374,-12.53647
+HGX B300,market on-demand,All four adverse together,prices compress 15% per generation,-151.74616,-0.09878,-154.58216

@@ -1,0 +1,16 @@
+{
+  "algorithm": "independent bounded site-capacity differential-evolution screening",
+  "active_turbine": "SANY SI-19580 8 MW engineering power-curve proxy",
+  "wind_GW": [
+    1.8847338558875357,
+    1.9231646166546954,
+    0.10411188370044414,
+    1.9230448703653304,
+    1.9258717762211408
+  ],
+  "solar_GW": 21.2160814200575,
+  "battery_GWh": 43.33217546082649,
+  "nicola_cap_gw": 0.2,
+  "maximum_ridge_cap_gw": 2.0,
+  "not_independent_validation": true
+}

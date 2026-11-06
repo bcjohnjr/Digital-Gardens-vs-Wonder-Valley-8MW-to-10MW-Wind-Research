@@ -1,0 +1,3405 @@
+{
+ "gas_25y": {
+  "low_flat_3|tier_output_based": {
+   "lcoe_25y_cad_mwh": 60.56338638961143,
+   "yr1_cad_mwh": 59.038248773610874,
+   "yr25_cad_mwh": 43.80765309775047,
+   "mean_direct_mt": 12.757090395789474,
+   "mean_upstream_mt": 2.5514180791578953
+  },
+  "low_flat_3|full_headline_price": {
+   "lcoe_25y_cad_mwh": 98.95487669501271,
+   "yr1_cad_mwh": 92.33824877361087,
+   "yr25_cad_mwh": 84.71768318996234,
+   "mean_direct_mt": 12.757090395789474,
+   "mean_upstream_mt": 2.5514180791578953
+  },
+  "low_flat_3|ccs_from_2035": {
+   "lcoe_25y_cad_mwh": 92.16223302897153,
+   "yr1_cad_mwh": 59.038248773610874,
+   "yr25_cad_mwh": 72.79367792680445,
+   "mean_direct_mt": 5.079873395603368,
+   "mean_upstream_mt": 2.811662723232
+  },
+  "central_4_rising_3pct|tier_output_based": {
+   "lcoe_25y_cad_mwh": 75.35413829646464,
+   "yr1_cad_mwh": 65.35403824729508,
+   "yr25_cad_mwh": 76.21508315569751,
+   "mean_direct_mt": 12.757090395789474,
+   "mean_upstream_mt": 2.5514180791578953
+  },
+  "central_4_rising_3pct|full_headline_price": {
+   "lcoe_25y_cad_mwh": 113.74562860186593,
+   "yr1_cad_mwh": 98.65403824729508,
+   "yr25_cad_mwh": 117.1251132479094,
+   "mean_direct_mt": 12.757090395789474,
+   "mean_upstream_mt": 2.5514180791578953
+  },
+  "central_4_rising_3pct|ccs_from_2035": {
+   "lcoe_25y_cad_mwh": 108.52444947294084,
+   "yr1_cad_mwh": 65.35403824729508,
+   "yr25_cad_mwh": 110.06222249344356,
+   "mean_direct_mt": 5.079873395603368,
+   "mean_upstream_mt": 2.811662723232
+  },
+  "high_6_rising_4pct|tier_output_based": {
+   "lcoe_25y_cad_mwh": 97.77084647043147,
+   "yr1_cad_mwh": 77.9856171946635,
+   "yr25_cad_mwh": 121.99602145154319,
+   "mean_direct_mt": 12.757090395789474,
+   "mean_upstream_mt": 2.5514180791578953
+  },
+  "high_6_rising_4pct|full_headline_price": {
+   "lcoe_25y_cad_mwh": 136.16233677583276,
+   "yr1_cad_mwh": 111.28561719466352,
+   "yr25_cad_mwh": 162.90605154375507,
+   "mean_direct_mt": 12.757090395789474,
+   "mean_upstream_mt": 2.5514180791578953
+  },
+  "high_6_rising_4pct|ccs_from_2035": {
+   "lcoe_25y_cad_mwh": 133.18897141976427,
+   "yr1_cad_mwh": 77.9856171946635,
+   "yr25_cad_mwh": 162.7103015336661,
+   "mean_direct_mt": 5.079873395603368,
+   "mean_upstream_mt": 2.811662723232
+  }
+ },
+ "gas_paths": {
+  "low_flat_3|tier_output_based": [
+   {
+    "year": 2027,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.333,
+    "cost_bn": 2.1256638817390314,
+    "cad_mwh": 59.038248773610874,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2028,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32967,
+    "cost_bn": 2.1376535001190313,
+    "cad_mwh": 59.37124877361087,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2029,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32637330000000003,
+    "cost_bn": 2.1495232223152314,
+    "cad_mwh": 59.70091877361088,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2030,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 115,
+    "tier_benchmark_t_mwh": 0.32310956700000004,
+    "cost_bn": 2.1781278823588766,
+    "cad_mwh": 60.49538541071613,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2031,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 118,
+    "tier_benchmark_t_mwh": 0.31987847133,
+    "cost_bn": 2.1952261567476636,
+    "cad_mwh": 60.970273367197194,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2032,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 121,
+    "tier_benchmark_t_mwh": 0.3166796866167,
+    "cost_bn": 2.212881676491753,
+    "cad_mwh": 61.46063827193754,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2033,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 124,
+    "tier_benchmark_t_mwh": 0.31351288975053304,
+    "cost_bn": 2.23108541398372,
+    "cad_mwh": 61.966229391913195,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2034,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 127,
+    "tier_benchmark_t_mwh": 0.31037776085302765,
+    "cost_bn": 2.2498284664437507,
+    "cad_mwh": 62.486799461065836,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2035,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 130,
+    "tier_benchmark_t_mwh": 0.3072739832444974,
+    "cost_bn": 2.2691020543258538,
+    "cad_mwh": 63.022104636036744,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2036,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 132,
+    "tier_benchmark_t_mwh": 0.3042012434120524,
+    "cost_bn": 2.2870931525285476,
+    "cad_mwh": 63.521789906377855,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2037,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 134,
+    "tier_benchmark_t_mwh": 0.3011592309779319,
+    "cost_bn": 2.3053785360207475,
+    "cad_mwh": 64.02964866467326,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2038,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 136,
+    "tier_benchmark_t_mwh": 0.2981476386681526,
+    "cost_bn": 2.3239530714049232,
+    "cad_mwh": 64.54553833579476,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2039,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 138,
+    "tier_benchmark_t_mwh": 0.295166162281471,
+    "cost_bn": 2.3428116985229646,
+    "cad_mwh": 65.06931837876787,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2040,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.3619494295047345,
+    "cad_mwh": 65.60085026034636,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2041,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.3619494295047345,
+    "cad_mwh": 65.60085026034636,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2042,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.3619494295047345,
+    "cad_mwh": 65.60085026034636,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2043,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.3619494295047345,
+    "cad_mwh": 65.60085026034636,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2044,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.3619494295047345,
+    "cad_mwh": 65.60085026034636,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2045,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.3619494295047345,
+    "cad_mwh": 65.60085026034636,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2046,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.3619494295047345,
+    "cad_mwh": 65.60085026034636,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2047,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 1.5772884167130719,
+    "cad_mwh": 43.80765309775047,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2048,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 1.5772884167130719,
+    "cad_mwh": 43.80765309775047,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2049,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 1.5772884167130719,
+    "cad_mwh": 43.80765309775047,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2050,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 1.5772884167130719,
+    "cad_mwh": 43.80765309775047,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2051,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 1.5772884167130719,
+    "cad_mwh": 43.80765309775047,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   }
+  ],
+  "low_flat_3|full_headline_price": [
+   {
+    "year": 2027,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.333,
+    "cost_bn": 3.324625719739031,
+    "cad_mwh": 92.33824877361087,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2028,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32967,
+    "cost_bn": 3.324625719739031,
+    "cad_mwh": 92.33824877361087,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2029,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32637330000000003,
+    "cost_bn": 3.324625719739031,
+    "cad_mwh": 92.33824877361087,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2030,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 115,
+    "tier_benchmark_t_mwh": 0.32310956700000004,
+    "cost_bn": 3.5159820756758733,
+    "cad_mwh": 97.65298561571613,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2031,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 118,
+    "tier_benchmark_t_mwh": 0.31987847133,
+    "cost_bn": 3.554253346863242,
+    "cad_mwh": 98.71593298413718,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2032,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 121,
+    "tier_benchmark_t_mwh": 0.3166796866167,
+    "cost_bn": 3.59252461805061,
+    "cad_mwh": 99.77888035255825,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2033,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 124,
+    "tier_benchmark_t_mwh": 0.31351288975053304,
+    "cost_bn": 3.6307958892379784,
+    "cad_mwh": 100.8418277209793,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2034,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 127,
+    "tier_benchmark_t_mwh": 0.31037776085302765,
+    "cost_bn": 3.6690671604253473,
+    "cad_mwh": 101.90477508940036,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2035,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 130,
+    "tier_benchmark_t_mwh": 0.3072739832444974,
+    "cost_bn": 3.707338431612716,
+    "cad_mwh": 102.96772245782141,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2036,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 132,
+    "tier_benchmark_t_mwh": 0.3042012434120524,
+    "cost_bn": 3.7328526124042947,
+    "cad_mwh": 103.67635403676877,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2037,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 134,
+    "tier_benchmark_t_mwh": 0.3011592309779319,
+    "cost_bn": 3.758366793195873,
+    "cad_mwh": 104.38498561571613,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2038,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 136,
+    "tier_benchmark_t_mwh": 0.2981476386681526,
+    "cost_bn": 3.7838809739874524,
+    "cad_mwh": 105.09361719466351,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2039,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 138,
+    "tier_benchmark_t_mwh": 0.295166162281471,
+    "cost_bn": 3.8093951547790312,
+    "cad_mwh": 105.80224877361087,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2040,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.83490933557061,
+    "cad_mwh": 106.51088035255825,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2041,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.83490933557061,
+    "cad_mwh": 106.51088035255825,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2042,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.83490933557061,
+    "cad_mwh": 106.51088035255825,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2043,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.83490933557061,
+    "cad_mwh": 106.51088035255825,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2044,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.83490933557061,
+    "cad_mwh": 106.51088035255825,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2045,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.83490933557061,
+    "cad_mwh": 106.51088035255825,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2046,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.83490933557061,
+    "cad_mwh": 106.51088035255825,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2047,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.0502483227789474,
+    "cad_mwh": 84.71768318996234,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2048,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.0502483227789474,
+    "cad_mwh": 84.71768318996234,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2049,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.0502483227789474,
+    "cad_mwh": 84.71768318996234,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2050,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.0502483227789474,
+    "cad_mwh": 84.71768318996234,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2051,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.0502483227789474,
+    "cad_mwh": 84.71768318996234,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   }
+  ],
+  "low_flat_3|ccs_from_2035": [
+   {
+    "year": 2027,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.333,
+    "cost_bn": 2.1256638817390314,
+    "cad_mwh": 59.038248773610874,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2028,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32967,
+    "cost_bn": 2.1376535001190313,
+    "cad_mwh": 59.37124877361087,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2029,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32637330000000003,
+    "cost_bn": 2.1495232223152314,
+    "cad_mwh": 59.70091877361088,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2030,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 115,
+    "tier_benchmark_t_mwh": 0.32310956700000004,
+    "cost_bn": 2.1781278823588766,
+    "cad_mwh": 60.49538541071613,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2031,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 118,
+    "tier_benchmark_t_mwh": 0.31987847133,
+    "cost_bn": 2.1952261567476636,
+    "cad_mwh": 60.970273367197194,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2032,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 121,
+    "tier_benchmark_t_mwh": 0.3166796866167,
+    "cost_bn": 2.212881676491753,
+    "cad_mwh": 61.46063827193754,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2033,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 124,
+    "tier_benchmark_t_mwh": 0.31351288975053304,
+    "cost_bn": 2.23108541398372,
+    "cad_mwh": 61.966229391913195,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2034,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 127,
+    "tier_benchmark_t_mwh": 0.31037776085302765,
+    "cost_bn": 2.2498284664437507,
+    "cad_mwh": 62.486799461065836,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2035,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 130,
+    "tier_benchmark_t_mwh": 0.3072739832444974,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2036,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 132,
+    "tier_benchmark_t_mwh": 0.3042012434120524,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2037,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 134,
+    "tier_benchmark_t_mwh": 0.3011592309779319,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2038,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 136,
+    "tier_benchmark_t_mwh": 0.2981476386681526,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2039,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 138,
+    "tier_benchmark_t_mwh": 0.295166162281471,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2040,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2041,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2042,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2043,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2044,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2045,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2046,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.6411403628951,
+    "cad_mwh": 128.9031637088743,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2047,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.8564793501034367,
+    "cad_mwh": 107.10996654627837,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2048,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.8564793501034367,
+    "cad_mwh": 107.10996654627837,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2049,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.8564793501034367,
+    "cad_mwh": 107.10996654627837,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2050,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.6209261826396846,
+    "cad_mwh": 72.79367792680445,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2051,
+    "gas_cad_gj": 3.0,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.6209261826396846,
+    "cad_mwh": 72.79367792680445,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   }
+  ],
+  "central_4_rising_3pct|tier_output_based": [
+   {
+    "year": 2027,
+    "gas_cad_gj": 4.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.333,
+    "cost_bn": 2.3530629975285047,
+    "cad_mwh": 65.35403824729508,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2028,
+    "gas_cad_gj": 4.12,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32967,
+    "cost_bn": 2.392340509803242,
+    "cad_mwh": 66.4449329841372,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2029,
+    "gas_cad_gj": 4.2436,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32637330000000003,
+    "cost_bn": 2.432316762711021,
+    "cad_mwh": 67.55523456308457,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2030,
+    "gas_cad_gj": 4.370908,
+    "carbon_cad_t": 115,
+    "tier_benchmark_t_mwh": 0.32310956700000004,
+    "cost_bn": 2.489871149387593,
+    "cad_mwh": 69.1537517265056,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2031,
+    "gas_cad_gj": 4.5020352400000005,
+    "carbon_cad_t": 118,
+    "tier_benchmark_t_mwh": 0.31987847133,
+    "cost_bn": 2.536787642208294,
+    "cad_mwh": 70.45681172509194,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2032,
+    "gas_cad_gj": 4.6370962972,
+    "carbon_cad_t": 121,
+    "tier_benchmark_t_mwh": 0.3166796866167,
+    "cost_bn": 2.5851559269372544,
+    "cad_mwh": 71.8001938332007,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2033,
+    "gas_cad_gj": 4.7762091861160005,
+    "carbon_cad_t": 124,
+    "tier_benchmark_t_mwh": 0.31351288975053304,
+    "cost_bn": 2.6349938123636387,
+    "cad_mwh": 73.18439267264583,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2034,
+    "gas_cad_gj": 4.919495461699481,
+    "carbon_cad_t": 127,
+    "tier_benchmark_t_mwh": 0.31037776085302765,
+    "cost_bn": 2.6863200371961207,
+    "cad_mwh": 74.60992869285204,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2035,
+    "gas_cad_gj": 5.0670803255504655,
+    "carbon_cad_t": 130,
+    "tier_benchmark_t_mwh": 0.3072739832444974,
+    "cost_bn": 2.7391542926218473,
+    "cad_mwh": 76.0773487974081,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2036,
+    "gas_cad_gj": 5.21909273531698,
+    "carbon_cad_t": 132,
+    "tier_benchmark_t_mwh": 0.3042012434120524,
+    "cost_bn": 2.7917128783944736,
+    "cad_mwh": 77.53711244522194,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2037,
+    "gas_cad_gj": 5.375665517376489,
+    "carbon_cad_t": 134,
+    "tier_benchmark_t_mwh": 0.3011592309779319,
+    "cost_bn": 2.845602774083704,
+    "cad_mwh": 79.03385193231425,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2038,
+    "gas_cad_gj": 5.536935482897784,
+    "carbon_cad_t": 136,
+    "tier_benchmark_t_mwh": 0.2981476386681526,
+    "cost_bn": 2.900849957030821,
+    "cad_mwh": 80.56828875409656,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2039,
+    "gas_cad_gj": 5.703043547384717,
+    "carbon_cad_t": 138,
+    "tier_benchmark_t_mwh": 0.295166162281471,
+    "cost_bn": 2.957481411138692,
+    "cad_mwh": 82.14117236225032,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2040,
+    "gas_cad_gj": 5.874134853806259,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.0155251539199863,
+    "cad_mwh": 83.75328091596485,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2041,
+    "gas_cad_gj": 6.050358899420448,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.0555983460734963,
+    "cad_mwh": 84.86627488826498,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2042,
+    "gas_cad_gj": 6.23186966640306,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.096873733991612,
+    "cad_mwh": 86.01265867973413,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2043,
+    "gas_cad_gj": 6.418825756395153,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.1393873835472714,
+    "cad_mwh": 87.19343398494735,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2044,
+    "gas_cad_gj": 6.611390529087007,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.1831764425895996,
+    "cad_mwh": 88.40963254931694,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2045,
+    "gas_cad_gj": 6.809732244959618,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.2282791734031986,
+    "cad_mwh": 89.66231707061765,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2046,
+    "gas_cad_gj": 7.0140242123084064,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.2747349861412047,
+    "cad_mwh": 90.95258212755736,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2047,
+    "gas_cad_gj": 7.224444938677659,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.5379234604696888,
+    "cad_mwh": 70.48835797360937,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2048,
+    "gas_cad_gj": 7.441178286837989,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.58720843220344,
+    "cad_mwh": 71.85720017251671,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2049,
+    "gas_cad_gj": 7.664413635443129,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.6379719530892043,
+    "cad_mwh": 73.26710763739129,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2050,
+    "gas_cad_gj": 7.894346044506423,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.6902583796015405,
+    "cad_mwh": 74.71931232621209,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2051,
+    "gas_cad_gj": 8.131176425841616,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 2.7441133989092474,
+    "cad_mwh": 76.21508315569751,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   }
+  ],
+  "central_4_rising_3pct|full_headline_price": [
+   {
+    "year": 2027,
+    "gas_cad_gj": 4.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.333,
+    "cost_bn": 3.552024835528505,
+    "cad_mwh": 98.65403824729508,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2028,
+    "gas_cad_gj": 4.12,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32967,
+    "cost_bn": 3.579312729423242,
+    "cad_mwh": 99.4119329841372,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2029,
+    "gas_cad_gj": 4.2436,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32637330000000003,
+    "cost_bn": 3.607419260134821,
+    "cad_mwh": 100.19256456308456,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2030,
+    "gas_cad_gj": 4.370908,
+    "carbon_cad_t": 115,
+    "tier_benchmark_t_mwh": 0.32310956700000004,
+    "cost_bn": 3.827725342704589,
+    "cad_mwh": 106.31135193150561,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2031,
+    "gas_cad_gj": 4.5020352400000005,
+    "carbon_cad_t": 118,
+    "tier_benchmark_t_mwh": 0.31987847133,
+    "cost_bn": 3.895814832323872,
+    "cad_mwh": 108.20247134203194,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2032,
+    "gas_cad_gj": 4.6370962972,
+    "carbon_cad_t": 121,
+    "tier_benchmark_t_mwh": 0.3166796866167,
+    "cost_bn": 3.9647988684961115,
+    "cad_mwh": 110.1184359138214,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2033,
+    "gas_cad_gj": 4.7762091861160005,
+    "carbon_cad_t": 124,
+    "tier_benchmark_t_mwh": 0.31351288975053304,
+    "cost_bn": 4.034704287617897,
+    "cad_mwh": 112.05999100171192,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2034,
+    "gas_cad_gj": 4.919495461699481,
+    "carbon_cad_t": 127,
+    "tier_benchmark_t_mwh": 0.31037776085302765,
+    "cost_bn": 4.105558731177717,
+    "cad_mwh": 114.02790432118657,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2035,
+    "gas_cad_gj": 5.0670803255504655,
+    "carbon_cad_t": 130,
+    "tier_benchmark_t_mwh": 0.3072739832444974,
+    "cost_bn": 4.177390669908709,
+    "cad_mwh": 116.02296661919276,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2036,
+    "gas_cad_gj": 5.21909273531698,
+    "carbon_cad_t": 132,
+    "tier_benchmark_t_mwh": 0.3042012434120524,
+    "cost_bn": 4.23747233827022,
+    "cad_mwh": 117.69167657561286,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2037,
+    "gas_cad_gj": 5.375665517376489,
+    "carbon_cad_t": 134,
+    "tier_benchmark_t_mwh": 0.3011592309779319,
+    "cost_bn": 4.298591031258829,
+    "cad_mwh": 119.38918888335711,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2038,
+    "gas_cad_gj": 5.536935482897784,
+    "carbon_cad_t": 136,
+    "tier_benchmark_t_mwh": 0.2981476386681526,
+    "cost_bn": 4.36077785961335,
+    "cad_mwh": 121.1163676129653,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2039,
+    "gas_cad_gj": 5.703043547384717,
+    "carbon_cad_t": 138,
+    "tier_benchmark_t_mwh": 0.295166162281471,
+    "cost_bn": 4.424064867394758,
+    "cad_mwh": 122.8741027570933,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2040,
+    "gas_cad_gj": 5.874134853806259,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.4884850599858614,
+    "cad_mwh": 124.66331100817672,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2041,
+    "gas_cad_gj": 6.050358899420448,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.528558252139372,
+    "cad_mwh": 125.77630498047685,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2042,
+    "gas_cad_gj": 6.23186966640306,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.569833640057487,
+    "cad_mwh": 126.922688771946,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2043,
+    "gas_cad_gj": 6.418825756395153,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.6123472896131466,
+    "cad_mwh": 128.1034640771592,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2044,
+    "gas_cad_gj": 6.611390529087007,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.656136348655475,
+    "cad_mwh": 129.31966264152882,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2045,
+    "gas_cad_gj": 6.809732244959618,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.701239079469074,
+    "cad_mwh": 130.57234716282952,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2046,
+    "gas_cad_gj": 7.0140242123084064,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.747694892207081,
+    "cad_mwh": 131.86261221976923,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2047,
+    "gas_cad_gj": 7.224444938677659,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.010883366535564,
+    "cad_mwh": 111.39838806582124,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2048,
+    "gas_cad_gj": 7.441178286837989,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.060168338269316,
+    "cad_mwh": 112.76723026472858,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2049,
+    "gas_cad_gj": 7.664413635443129,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.110931859155079,
+    "cad_mwh": 114.17713772960316,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2050,
+    "gas_cad_gj": 7.894346044506423,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.1632182856674165,
+    "cad_mwh": 115.62934241842396,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2051,
+    "gas_cad_gj": 8.131176425841616,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.217073304975123,
+    "cad_mwh": 117.1251132479094,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   }
+  ],
+  "central_4_rising_3pct|ccs_from_2035": [
+   {
+    "year": 2027,
+    "gas_cad_gj": 4.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.333,
+    "cost_bn": 2.3530629975285047,
+    "cad_mwh": 65.35403824729508,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2028,
+    "gas_cad_gj": 4.12,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32967,
+    "cost_bn": 2.392340509803242,
+    "cad_mwh": 66.4449329841372,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2029,
+    "gas_cad_gj": 4.2436,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32637330000000003,
+    "cost_bn": 2.432316762711021,
+    "cad_mwh": 67.55523456308457,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2030,
+    "gas_cad_gj": 4.370908,
+    "carbon_cad_t": 115,
+    "tier_benchmark_t_mwh": 0.32310956700000004,
+    "cost_bn": 2.489871149387593,
+    "cad_mwh": 69.1537517265056,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2031,
+    "gas_cad_gj": 4.5020352400000005,
+    "carbon_cad_t": 118,
+    "tier_benchmark_t_mwh": 0.31987847133,
+    "cost_bn": 2.536787642208294,
+    "cad_mwh": 70.45681172509194,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2032,
+    "gas_cad_gj": 4.6370962972,
+    "carbon_cad_t": 121,
+    "tier_benchmark_t_mwh": 0.3166796866167,
+    "cost_bn": 2.5851559269372544,
+    "cad_mwh": 71.8001938332007,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2033,
+    "gas_cad_gj": 4.7762091861160005,
+    "carbon_cad_t": 124,
+    "tier_benchmark_t_mwh": 0.31351288975053304,
+    "cost_bn": 2.6349938123636387,
+    "cad_mwh": 73.18439267264583,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2034,
+    "gas_cad_gj": 4.919495461699481,
+    "carbon_cad_t": 127,
+    "tier_benchmark_t_mwh": 0.31037776085302765,
+    "cost_bn": 2.6863200371961207,
+    "cad_mwh": 74.60992869285204,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2035,
+    "gas_cad_gj": 5.0670803255504655,
+    "carbon_cad_t": 130,
+    "tier_benchmark_t_mwh": 0.3072739832444974,
+    "cost_bn": 5.1817004369354915,
+    "cad_mwh": 143.91669449445135,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2036,
+    "gas_cad_gj": 5.21909273531698,
+    "carbon_cad_t": 132,
+    "tier_benchmark_t_mwh": 0.3042012434120524,
+    "cost_bn": 5.221453047640914,
+    "cad_mwh": 145.020784628545,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2037,
+    "gas_cad_gj": 5.375665517376489,
+    "carbon_cad_t": 134,
+    "tier_benchmark_t_mwh": 0.3011592309779319,
+    "cost_bn": 5.262398236667498,
+    "cad_mwh": 146.1579974666614,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2038,
+    "gas_cad_gj": 5.536935482897784,
+    "carbon_cad_t": 136,
+    "tier_benchmark_t_mwh": 0.2981476386681526,
+    "cost_bn": 5.304571781364881,
+    "cad_mwh": 147.32932668992134,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2039,
+    "gas_cad_gj": 5.703043547384717,
+    "carbon_cad_t": 138,
+    "tier_benchmark_t_mwh": 0.295166162281471,
+    "cost_bn": 5.348010532403185,
+    "cad_mwh": 148.53579578987905,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2040,
+    "gas_cad_gj": 5.874134853806259,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.392752445972639,
+    "cad_mwh": 149.77845896283554,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2041,
+    "gas_cad_gj": 6.050358899420448,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.438836616949175,
+    "cad_mwh": 151.0584020309807,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2042,
+    "gas_cad_gj": 6.23186966640306,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.486303313055008,
+    "cad_mwh": 152.37674339117018,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2043,
+    "gas_cad_gj": 6.418825756395153,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.535194010044016,
+    "cad_mwh": 153.73463499216538,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2044,
+    "gas_cad_gj": 6.611390529087007,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.585551427942693,
+    "cad_mwh": 155.13326334119043,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2045,
+    "gas_cad_gj": 6.809732244959618,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.637419568378332,
+    "cad_mwh": 156.57385054068624,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2046,
+    "gas_cad_gj": 7.0140242123084064,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.690843753027041,
+    "cad_mwh": 158.05765535616692,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2047,
+    "gas_cad_gj": 7.224444938677659,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.9612096504235454,
+    "cad_mwh": 137.7927771535161,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2048,
+    "gas_cad_gj": 7.441178286837989,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.017887367917361,
+    "cad_mwh": 139.36694568225957,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2049,
+    "gas_cad_gj": 7.664413635443129,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.076265416935988,
+    "cad_mwh": 140.98833926686532,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2050,
+    "gas_cad_gj": 7.894346044506423,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.900841639961424,
+    "cad_mwh": 108.34208603953533,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2051,
+    "gas_cad_gj": 8.131176425841616,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.962774912165286,
+    "cad_mwh": 110.06222249344356,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   }
+  ],
+  "high_6_rising_4pct|tier_output_based": [
+   {
+    "year": 2027,
+    "gas_cad_gj": 6.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.333,
+    "cost_bn": 2.8078612291074525,
+    "cad_mwh": 77.9856171946635,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2028,
+    "gas_cad_gj": 6.24,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32967,
+    "cost_bn": 2.8744266352769263,
+    "cad_mwh": 79.83440666834773,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2029,
+    "gas_cad_gj": 6.489600000000001,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32637330000000003,
+    "cost_bn": 2.9430551767741795,
+    "cad_mwh": 81.74049772097932,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2030,
+    "gas_cad_gj": 6.7491840000000005,
+    "carbon_cad_t": 115,
+    "tier_benchmark_t_mwh": 0.32310956700000004,
+    "cost_bn": 3.0306890088909193,
+    "cad_mwh": 84.17444225282141,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2031,
+    "gas_cad_gj": 7.019151360000001,
+    "carbon_cad_t": 118,
+    "tier_benchmark_t_mwh": 0.31987847133,
+    "cost_bn": 3.1091776222357246,
+    "cad_mwh": 86.35438721982878,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2032,
+    "gas_cad_gj": 7.299917414400001,
+    "carbon_cad_t": 121,
+    "tier_benchmark_t_mwh": 0.3166796866167,
+    "cost_bn": 3.1906790944940733,
+    "cad_mwh": 88.6180114155165,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2033,
+    "gas_cad_gj": 7.591914110976003,
+    "carbon_cad_t": 124,
+    "tier_benchmark_t_mwh": 0.31351288975053304,
+    "cost_bn": 3.27528262260087,
+    "cad_mwh": 90.96779219807743,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2034,
+    "gas_cad_gj": 7.895590675415042,
+    "carbon_cad_t": 127,
+    "tier_benchmark_t_mwh": 0.31037776085302765,
+    "cost_bn": 3.363081457300324,
+    "cad_mwh": 93.40631951631875,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2035,
+    "gas_cad_gj": 8.211414302431644,
+    "carbon_cad_t": 130,
+    "tier_benchmark_t_mwh": 0.3072739832444974,
+    "cost_bn": 3.4541730587114263,
+    "cad_mwh": 95.93630023034186,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2036,
+    "gas_cad_gj": 8.53987087452891,
+    "carbon_cad_t": 132,
+    "tier_benchmark_t_mwh": 0.3042012434120524,
+    "cost_bn": 3.5468548909842808,
+    "cad_mwh": 98.5104480612973,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2037,
+    "gas_cad_gj": 8.881465709510067,
+    "carbon_cad_t": 134,
+    "tier_benchmark_t_mwh": 0.3011592309779319,
+    "cost_bn": 3.6428186379094467,
+    "cad_mwh": 101.17574788263158,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2038,
+    "gas_cad_gj": 9.23672433789047,
+    "carbon_cad_t": 136,
+    "tier_benchmark_t_mwh": 0.2981476386681526,
+    "cost_bn": 3.7421786712639076,
+    "cad_mwh": 103.93537625931353,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2039,
+    "gas_cad_gj": 9.60619331140609,
+    "carbon_cad_t": 138,
+    "tier_benchmark_t_mwh": 0.295166162281471,
+    "cost_bn": 3.845054216271045,
+    "cad_mwh": 106.7926445560695,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2040,
+    "gas_cad_gj": 9.990441043862333,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.951569541857475,
+    "cad_mwh": 109.75100422158216,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2041,
+    "gas_cad_gj": 10.390058685616825,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.042442240246321,
+    "cad_mwh": 112.27490511687368,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2042,
+    "gas_cad_gj": 10.805661033041499,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.1369498465707215,
+    "cad_mwh": 114.8997620479769,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2043,
+    "gas_cad_gj": 11.23788747436316,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.235237757148098,
+    "cad_mwh": 117.62961325632423,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2044,
+    "gas_cad_gj": 11.687402973337687,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.337457184148569,
+    "cad_mwh": 120.46865851300544,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2045,
+    "gas_cad_gj": 12.154899092271195,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.44376538822906,
+    "cad_mwh": 123.42126557995394,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2046,
+    "gas_cad_gj": 12.641095055962044,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.5543259204727695,
+    "cad_mwh": 126.49197692958033,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2047,
+    "gas_cad_gj": 13.146738858200525,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 3.884647861214565,
+    "cad_mwh": 107.89231957059589,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2048,
+    "gas_cad_gj": 13.672608412528547,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.004230132889362,
+    "cad_mwh": 111.21360096635183,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2049,
+    "gas_cad_gj": 14.219512749029688,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.128595695431151,
+    "cad_mwh": 114.66773361793798,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2050,
+    "gas_cad_gj": 14.788293258990876,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.257935880474611,
+    "cad_mwh": 118.26003157558759,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2051,
+    "gas_cad_gj": 15.379824989350514,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 4.39244967291981,
+    "cad_mwh": 121.99602145154319,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   }
+  ],
+  "high_6_rising_4pct|full_headline_price": [
+   {
+    "year": 2027,
+    "gas_cad_gj": 6.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.333,
+    "cost_bn": 4.006823067107453,
+    "cad_mwh": 111.28561719466352,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2028,
+    "gas_cad_gj": 6.24,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32967,
+    "cost_bn": 4.061398854896926,
+    "cad_mwh": 112.80140666834772,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2029,
+    "gas_cad_gj": 6.489600000000001,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32637330000000003,
+    "cost_bn": 4.118157674197979,
+    "cad_mwh": 114.37782772097933,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2030,
+    "gas_cad_gj": 6.7491840000000005,
+    "carbon_cad_t": 115,
+    "tier_benchmark_t_mwh": 0.32310956700000004,
+    "cost_bn": 4.368543202207916,
+    "cad_mwh": 121.33204245782143,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2031,
+    "gas_cad_gj": 7.019151360000001,
+    "carbon_cad_t": 118,
+    "tier_benchmark_t_mwh": 0.31987847133,
+    "cost_bn": 4.468204812351303,
+    "cad_mwh": 124.10004683676878,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2032,
+    "gas_cad_gj": 7.299917414400001,
+    "carbon_cad_t": 121,
+    "tier_benchmark_t_mwh": 0.3166796866167,
+    "cost_bn": 4.57032203605293,
+    "cad_mwh": 126.93625349613721,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2033,
+    "gas_cad_gj": 7.591914110976003,
+    "carbon_cad_t": 124,
+    "tier_benchmark_t_mwh": 0.31351288975053304,
+    "cost_bn": 4.674993097855129,
+    "cad_mwh": 129.84339052714353,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2034,
+    "gas_cad_gj": 7.895590675415042,
+    "carbon_cad_t": 127,
+    "tier_benchmark_t_mwh": 0.31037776085302765,
+    "cost_bn": 4.782320151281921,
+    "cad_mwh": 132.82429514465326,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2035,
+    "gas_cad_gj": 8.211414302431644,
+    "carbon_cad_t": 130,
+    "tier_benchmark_t_mwh": 0.3072739832444974,
+    "cost_bn": 4.892409435998288,
+    "cad_mwh": 135.88191805212654,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2036,
+    "gas_cad_gj": 8.53987087452891,
+    "carbon_cad_t": 132,
+    "tier_benchmark_t_mwh": 0.3042012434120524,
+    "cost_bn": 4.992614350860027,
+    "cad_mwh": 138.66501219168822,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2037,
+    "gas_cad_gj": 8.881465709510067,
+    "carbon_cad_t": 134,
+    "tier_benchmark_t_mwh": 0.3011592309779319,
+    "cost_bn": 5.095806895084571,
+    "cad_mwh": 141.53108483367444,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2038,
+    "gas_cad_gj": 9.23672433789047,
+    "carbon_cad_t": 136,
+    "tier_benchmark_t_mwh": 0.2981476386681526,
+    "cost_bn": 5.202106573846437,
+    "cad_mwh": 144.4834551181823,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2039,
+    "gas_cad_gj": 9.60619331140609,
+    "carbon_cad_t": 138,
+    "tier_benchmark_t_mwh": 0.295166162281471,
+    "cost_bn": 5.311637672527111,
+    "cad_mwh": 147.5255749509125,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2040,
+    "gas_cad_gj": 9.990441043862333,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.424529447923351,
+    "cad_mwh": 150.66103431379403,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2041,
+    "gas_cad_gj": 10.390058685616825,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.515402146312197,
+    "cad_mwh": 153.18493520908558,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2042,
+    "gas_cad_gj": 10.805661033041499,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.609909752636597,
+    "cad_mwh": 155.80979214018876,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2043,
+    "gas_cad_gj": 11.23788747436316,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.708197663213974,
+    "cad_mwh": 158.53964334853612,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2044,
+    "gas_cad_gj": 11.687402973337687,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.810417090214445,
+    "cad_mwh": 161.37868860521732,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2045,
+    "gas_cad_gj": 12.154899092271195,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.9167252942949355,
+    "cad_mwh": 164.3312956721658,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2046,
+    "gas_cad_gj": 12.641095055962044,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 6.027285826538645,
+    "cad_mwh": 167.4020070217922,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2047,
+    "gas_cad_gj": 13.146738858200525,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.357607767280442,
+    "cad_mwh": 148.80234966280779,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2048,
+    "gas_cad_gj": 13.672608412528547,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.477190038955238,
+    "cad_mwh": 152.12363105856372,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2049,
+    "gas_cad_gj": 14.219512749029688,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.601555601497027,
+    "cad_mwh": 155.57776371014987,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2050,
+    "gas_cad_gj": 14.788293258990876,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.730895786540486,
+    "cad_mwh": 159.17006166779947,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2051,
+    "gas_cad_gj": 15.379824989350514,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.865409578985686,
+    "cad_mwh": 162.90605154375507,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   }
+  ],
+  "high_6_rising_4pct|ccs_from_2035": [
+   {
+    "year": 2027,
+    "gas_cad_gj": 6.0,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.333,
+    "cost_bn": 2.8078612291074525,
+    "cad_mwh": 77.9856171946635,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2028,
+    "gas_cad_gj": 6.24,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32967,
+    "cost_bn": 2.8744266352769263,
+    "cad_mwh": 79.83440666834773,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2029,
+    "gas_cad_gj": 6.489600000000001,
+    "carbon_cad_t": 100,
+    "tier_benchmark_t_mwh": 0.32637330000000003,
+    "cost_bn": 2.9430551767741795,
+    "cad_mwh": 81.74049772097932,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2030,
+    "gas_cad_gj": 6.7491840000000005,
+    "carbon_cad_t": 115,
+    "tier_benchmark_t_mwh": 0.32310956700000004,
+    "cost_bn": 3.0306890088909193,
+    "cad_mwh": 84.17444225282141,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2031,
+    "gas_cad_gj": 7.019151360000001,
+    "carbon_cad_t": 118,
+    "tier_benchmark_t_mwh": 0.31987847133,
+    "cost_bn": 3.1091776222357246,
+    "cad_mwh": 86.35438721982878,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2032,
+    "gas_cad_gj": 7.299917414400001,
+    "carbon_cad_t": 121,
+    "tier_benchmark_t_mwh": 0.3166796866167,
+    "cost_bn": 3.1906790944940733,
+    "cad_mwh": 88.6180114155165,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2033,
+    "gas_cad_gj": 7.591914110976003,
+    "carbon_cad_t": 124,
+    "tier_benchmark_t_mwh": 0.31351288975053304,
+    "cost_bn": 3.27528262260087,
+    "cad_mwh": 90.96779219807743,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2034,
+    "gas_cad_gj": 7.895590675415042,
+    "carbon_cad_t": 127,
+    "tier_benchmark_t_mwh": 0.31037776085302765,
+    "cost_bn": 3.363081457300324,
+    "cad_mwh": 93.40631951631875,
+    "direct_mt": 12.757090395789474,
+    "upstream_mt": 2.551418079157895
+   },
+   {
+    "year": 2035,
+    "gas_cad_gj": 8.211414302431644,
+    "carbon_cad_t": 130,
+    "tier_benchmark_t_mwh": 0.3072739832444974,
+    "cost_bn": 6.003972017938508,
+    "cad_mwh": 166.75448864232519,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2036,
+    "gas_cad_gj": 8.53987087452891,
+    "carbon_cad_t": 132,
+    "tier_benchmark_t_mwh": 0.3042012434120524,
+    "cost_bn": 6.089866362119192,
+    "cad_mwh": 169.14012058703165,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2037,
+    "gas_cad_gj": 8.881465709510067,
+    "carbon_cad_t": 134,
+    "tier_benchmark_t_mwh": 0.3011592309779319,
+    "cost_bn": 6.179196480067103,
+    "cad_mwh": 171.62117780952633,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2038,
+    "gas_cad_gj": 9.23672433789047,
+    "carbon_cad_t": 136,
+    "tier_benchmark_t_mwh": 0.2981476386681526,
+    "cost_bn": 6.27209980273293,
+    "cad_mwh": 174.20147732092084,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2039,
+    "gas_cad_gj": 9.60619331140609,
+    "carbon_cad_t": 138,
+    "tier_benchmark_t_mwh": 0.295166162281471,
+    "cost_bn": 6.368719258305391,
+    "cad_mwh": 176.88498881277116,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2040,
+    "gas_cad_gj": 9.990441043862333,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 6.46920349210075,
+    "cad_mwh": 179.67584076429543,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2041,
+    "gas_cad_gj": 10.390058685616825,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 6.573707095247923,
+    "cad_mwh": 182.57832679388068,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2042,
+    "gas_cad_gj": 10.805661033041499,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 6.6823908425209835,
+    "cad_mwh": 185.59691226464938,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2043,
+    "gas_cad_gj": 11.23788747436316,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 6.795421939684966,
+    "cad_mwh": 188.7362411542488,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2044,
+    "gas_cad_gj": 11.687402973337687,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 6.912974280735509,
+    "cad_mwh": 192.00114319943222,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2045,
+    "gas_cad_gj": 12.154899092271195,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 7.035228715428073,
+    "cad_mwh": 195.39664132642295,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2046,
+    "gas_cad_gj": 12.641095055962044,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 7.16237332750834,
+    "cad_mwh": 198.92795937849334,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2047,
+    "gas_cad_gj": 13.146738858200525,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 6.509942711280154,
+    "cad_mwh": 180.8073329900506,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2048,
+    "gas_cad_gj": 13.672608412528547,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 6.64746232370617,
+    "cad_mwh": 184.62680659516994,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2049,
+    "gas_cad_gj": 14.219512749029688,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 6.790482720629226,
+    "cad_mwh": 188.59905914449402,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2050,
+    "gas_cad_gj": 14.788293258990876,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.703670765965454,
+    "cad_mwh": 158.41391317631715,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   },
+   {
+    "year": 2051,
+    "gas_cad_gj": 15.379824989350514,
+    "carbon_cad_t": 140,
+    "tier_benchmark_t_mwh": 0.2922145006586563,
+    "cost_bn": 5.858361627277433,
+    "cad_mwh": 162.7103015336661,
+    "direct_mt": 1.467065395515789,
+    "upstream_mt": 2.934130791031579
+   }
+  ]
+ },
+ "digital_gardens_25y": {
+  "reference_selected": {
+   "lcoe_25y_cad_mwh": 388.709243076866,
+   "yr1_cad_mwh": 411.74026118363815,
+   "yr21_cad_mwh": 69.36902425545932,
+   "path_cad_mwh": [
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    783.8505871971068,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    69.36902425545932,
+    69.36902425545932,
+    69.36902425545932,
+    69.36902425545932,
+    69.36902425545932
+   ],
+   "config": {
+    "wind_GW": 7.833220572699388,
+    "solar_GW": 53.09569477032352,
+    "battery_GWh": 72.03107630467366,
+    "fuel_cap_ML": 300.0,
+    "hvo_ml_mean": 189.72219017025554,
+    "hvo_ml_max": 299.4005547902519,
+    "capex_bn": 141.315195083404
+   }
+  },
+  "sweet_spot": {
+   "lcoe_25y_cad_mwh": 275.73321161647783,
+   "yr1_cad_mwh": 290.67694704912424,
+   "yr21_cad_mwh": 74.11730745561918,
+   "path_cad_mwh": [
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    514.529633484059,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    290.67694704912424,
+    74.11730745561918,
+    74.11730745561918,
+    74.11730745561918,
+    74.11730745561918,
+    74.11730745561918
+   ],
+   "config": {
+    "wind_GW": 7.760927002829146,
+    "solar_GW": 21.2160814200575,
+    "battery_GWh": 43.33217546082649,
+    "fuel_cap_ML": 965.7311201372761,
+    "hvo_ml_mean": 746.601400846315,
+    "hvo_ml_max": 960.6781318319379,
+    "capex_bn": 89.19309451728962
+   }
+  },
+  "low_fuel_sweet_spot": {
+   "lcoe_25y_cad_mwh": 388.709243076866,
+   "yr1_cad_mwh": 411.74026118363815,
+   "yr21_cad_mwh": 69.36902425545932,
+   "path_cad_mwh": [
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    783.8505871971068,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    411.74026118363815,
+    69.36902425545932,
+    69.36902425545932,
+    69.36902425545932,
+    69.36902425545932,
+    69.36902425545932
+   ],
+   "config": {
+    "wind_GW": 7.833220572699388,
+    "solar_GW": 53.09569477032352,
+    "battery_GWh": 72.03107630467366,
+    "fuel_cap_ML": 300.0,
+    "hvo_ml_mean": 189.72219017025554,
+    "hvo_ml_max": 299.4005547902519,
+    "capex_bn": 141.315195083404
+   }
+  }
+ },
+ "breakeven_gas_growth": {
+  "reference_selected": 0.20998170570035357,
+  "sweet_spot": 0.18305965541149882
+ },
+ "breakeven_gas_growth_full_carbon": {
+  "reference_selected": 0.20202792120813207,
+  "sweet_spot": 0.17058862705562772
+ },
+ "breakeven_gas_flat": {
+  "tier_output_based": {
+   "reference_selected": 54.95642730881531,
+   "sweet_spot": 37.06855566092051
+  },
+  "full_headline_price": {
+   "reference_selected": 48.877774677126766,
+   "sweet_spot": 30.989903029231968
+  },
+  "ccs_from_2035": {
+   "reference_selected": 46.590924159470305,
+   "sweet_spot": 29.984013779789407
+  }
+ },
+ "emissions_per_gw_it": {
+  "Wonder Valley-type gas, unabated": {
+   "direct_mt": 3.414186947368422,
+   "upstream_mt": 0.6828373894736844,
+   "total_mt": 4.097024336842106
+  },
+  "Wonder Valley-type gas, 90% capture": {
+   "direct_mt": 0.3926314989473684,
+   "upstream_mt": 0.785262997894737,
+   "total_mt": 1.1778944968421055
+  },
+  "Digital Gardens, published portfolio": {
+   "system_mt": 2.65278611114597,
+   "g_per_kwh": 73.67855648226295,
+   "total_mt": 0.7099665702630858
+  },
+  "Digital Gardens, storage-fuel sweet spot": {
+   "system_mt": 1.8705330411806425,
+   "g_per_kwh": 51.95223759183184,
+   "total_mt": 0.5006117614348916
+  }
+ },
+ "label_premium_needed": {
+  "reference_selected|central_4_rising_3pct|tier_output_based": {
+   "gap_cad_mwh": 313.35510478040135,
+   "premium_usd_per_gpu_h": {
+    "GB300 NVL72": 0.5057897965064408,
+    "HGX B300": 0.47207047673934494
+   }
+  },
+  "reference_selected|central_4_rising_3pct|full_headline_price": {
+   "gap_cad_mwh": 274.9636144750001,
+   "premium_usd_per_gpu_h": {
+    "GB300 NVL72": 0.44382168501594516,
+    "HGX B300": 0.4142335726815489
+   }
+  },
+  "reference_selected|low_flat_3|tier_output_based": {
+   "gap_cad_mwh": 328.1458566872546,
+   "premium_usd_per_gpu_h": {
+    "GB300 NVL72": 0.5296637059561919,
+    "HGX B300": 0.49435279222577927
+   }
+  },
+  "reference_selected|high_6_rising_4pct|full_headline_price": {
+   "gap_cad_mwh": 252.54690630103326,
+   "premium_usd_per_gpu_h": {
+    "GB300 NVL72": 0.40763863871261236,
+    "HGX B300": 0.3804627294651049
+   }
+  },
+  "reference_selected|central_4_rising_3pct|ccs_from_2035": {
+   "gap_cad_mwh": 280.1847936039252,
+   "premium_usd_per_gpu_h": {
+    "GB300 NVL72": 0.45224924559771185,
+    "HGX B300": 0.4220992958911978
+   }
+  },
+  "sweet_spot|central_4_rising_3pct|tier_output_based": {
+   "gap_cad_mwh": 200.3790733200132,
+   "premium_usd_per_gpu_h": {
+    "GB300 NVL72": 0.32343398646626276,
+    "HGX B300": 0.3018717207018453
+   }
+  },
+  "sweet_spot|central_4_rising_3pct|full_headline_price": {
+   "gap_cad_mwh": 161.98758301461191,
+   "premium_usd_per_gpu_h": {
+    "GB300 NVL72": 0.2614658749757669,
+    "HGX B300": 0.2440348166440492
+   }
+  },
+  "sweet_spot|low_flat_3|tier_output_based": {
+   "gap_cad_mwh": 215.1698252268664,
+   "premium_usd_per_gpu_h": {
+    "GB300 NVL72": 0.34730789591601374,
+    "HGX B300": 0.32415403618827954
+   }
+  },
+  "sweet_spot|high_6_rising_4pct|full_headline_price": {
+   "gap_cad_mwh": 139.57087484064508,
+   "premium_usd_per_gpu_h": {
+    "GB300 NVL72": 0.22528282867243413,
+    "HGX B300": 0.21026397342760522
+   }
+  },
+  "sweet_spot|central_4_rising_3pct|ccs_from_2035": {
+   "gap_cad_mwh": 167.208762143537,
+   "premium_usd_per_gpu_h": {
+    "GB300 NVL72": 0.26989343555753365,
+    "HGX B300": 0.25190053985369815
+   }
+  }
+ },
+ "kwh_per_gpu_hour": {
+  "GB300 NVL72": 2.2597548414130872,
+  "HGX B300": 2.1091045186522153
+ },
+ "thermal": {
+  "it_heat_twh": 32.861982366,
+  "recoverable_twh": 27.9326850111,
+  "delivered_to_network_twh": 23.742782259434996,
+  "useful_twh": 7.649853547288497,
+  "space_dhw_twh": 2.4597350677685155,
+  "digester_twh": 0.056214530113419425,
+  "aquaculture_greenhouse_twh": 4.770783949406562,
+  "drying_twh": 0.36311999999999994,
+  "booster_el_twh": 0.018382498133089287,
+  "utilisation_of_recoverable_pct": 27.38674618730197,
+  "erf_pct": 21.246724879053822,
+  "space_dhw_coverage_pct": 99.51167213467077
+ },
+ "community": {
+  "population": 787934,
+  "connected_households": 196983.5,
+  "ghg_reduction_t": {
+   "Home heating and hot water from server heat (gas displaced)": 340025.68614045886,
+   "Asparagopsis for dairy and beef cattle (enteric methane)": 86750.39707561643,
+   "Manure removed to digesters (storage methane avoided)": 64552.432,
+   "Renewable natural gas displacing fossil gas": 55362.73413243914,
+   "Methane-leak sensors on digesters and upgraders (fugitive avoided vs no sensors)": 10592.114852480003,
+   "Farm diesel replaced by HVO": 56516.16,
+   "Commercial drying contracts with server heat (gas and propane displaced)": 187273.16860300553,
+   "Electric vehicles charged from Digital Gardens (5,000-vehicle programme)": 17801.74479251027
+  },
+  "ghg_reduction_best_t": {
+   "Home heating and hot water from server heat (gas displaced)": 340025.68614045886,
+   "Asparagopsis for dairy and beef cattle (enteric methane)": 121684.74883561647,
+   "Manure removed to digesters (storage methane avoided)": 64552.432,
+   "Renewable natural gas displacing fossil gas": 55362.73413243914,
+   "Methane-leak sensors on digesters and upgraders (fugitive avoided vs no sensors)": 10592.114852480003,
+   "Farm diesel replaced by HVO": 56516.16,
+   "Commercial drying contracts with server heat (gas and propane displaced)": 187273.16860300553,
+   "Electric vehicles charged from Digital Gardens (5,000-vehicle programme)": 17801.74479251027
+  },
+  "total_reduction_mt": 0.8188744375965104,
+  "total_reduction_best_mt": 0.8538087893565104,
+  "baseline_covered_t": {
+   "Home heating and hot water (connected gas-heated homes)": 340025.68614045886,
+   "Enteric methane (Fraser Valley dairy cows, Thompson-Nicola beef cows)": 316994.804,
+   "Manure storage methane (Fraser Valley dairy and pigs)": 80690.54,
+   "Farm diesel (dairy and beef)": 75354.88,
+   "Fossil drying heat displaced": 187273.16860300553
+  },
+  "baseline_covered_mt": 1.0003390787434643,
+  "per_capita_reduction_t": 1.0392678036441,
+  "bc_average_per_capita_t": 11.068840579710145,
+  "asparagopsis_dw_t": 2921.784010714286,
+  "asparagopsis_area_ha": 66.70739750489237,
+  "biogas_gj": 1013680.7947999999,
+  "rng_gj": 1008612.3908259999,
+  "economics": {
+   "hot_water_capex_bn": 3.545703,
+   "hot_water_annual_cost_bn": 0.2888384122985469,
+   "heat_revenue_bn": 0.09395256403346619,
+   "ad_capex_bn": 0.06051674344955999,
+   "ad_annual_cost_bn": 0.008301962639809661,
+   "rng_revenue_bn": 0.02521530977065,
+   "asparagopsis_capex_bn": 0.16676849376223093,
+   "asparagopsis_annual_cost_bn": 0.05177545932545209,
+   "sensors_annual_cost_bn": 0.00033586795822038374,
+   "drying_service_value_bn": 0.01602,
+   "hvo_for_farms_cost_bn": 0.01412904,
+   "net_annual_bn": -0.24421286841791287
+  },
+  "ev": {
+   "net_t_per_vehicle": 3.560348958502054,
+   "ice_t": 3.70062,
+   "ev_t": 0.14027104149794595,
+   "programme_vehicles": 5000,
+   "programme_t": 17801.74479251027,
+   "fleet10_vehicles": 53579.512,
+   "fleet10_t": 190761.7597462483,
+   "charging_gwh": 13.5,
+   "fleet10_charging_gwh": 144.6646824,
+   "capex_bn": 0.175
+  },
+  "baseline_total_mt": 8.721515833333333,
+  "deployment_scenarios_mt": {
+   "Full deployment (all measures, seaweed feed approved)": 0.8188744375965104,
+   "Full deployment without seaweed-feed approval": 0.732124040520894,
+   "Limited adoption (half of homes, farms and drying customers; no seaweed approval)": 0.36653279503557845
+  },
+  "deployment_limited_t": {
+   "Home heating and hot water from server heat (gas displaced)": 170012.84307022943,
+   "Asparagopsis for dairy and beef cattle (enteric methane)": 0.0,
+   "Manure removed to digesters (storage methane avoided)": 32276.216,
+   "Renewable natural gas displacing fossil gas": 27681.36706621957,
+   "Methane-leak sensors on digesters and upgraders (fugitive avoided vs no sensors)": 5296.057426240001,
+   "Farm diesel replaced by HVO": 28258.08,
+   "Commercial drying contracts with server heat (gas and propane displaced)": 94107.35907663431,
+   "Electric vehicles charged from Digital Gardens (5,000-vehicle programme)": 8900.872396255136
+  }
+ },
+ "community_net_ex_capital_bn": 0.0822359229551391,
+ "community_capex_bn": 4.608554505866975,
+ "best_profit": {
+  "product": "HGX B300",
+  "tier": "top tier",
+  "label": 2.0,
+  "gpus": 1948762.519480519,
+  "payback_years": 1.0,
+  "elec_usd_per_gpu_h": 0.4542889311792956,
+  "gpu_capex_bn": 131.54147006493503,
+  "npv_bn": 1420.031961510529,
+  "irr": 1.0678941542487048,
+  "mean_revenue_bn": 251.9020321001018,
+  "mean_ebitda_bn": 240.96003233284188,
+  "mean_electricity_bn": 6.591953048654829,
+  "electricity": "Digital Gardens sweet spot",
+  "market": "prices held each generation"
+ },
+ "it_gw": 3.75136785,
+ "pue": 1.1,
+ "label_carbon": {
+  "fossil_co2_operation_t": 0.0,
+  "gas_hours_in_16_years": 0,
+  "biogenic_co2_hvo_mt": 1.8107174454445505,
+  "biogenic_co2_b100_mt": 0.0447216,
+  "lifecycle_g_kwh": 51.95223759183184
+ },
+ "air_quality": {
+  "engine_twh": 4.1747481820718235,
+  "engine_nox_t": 2797.0812819881216,
+  "engine_pm_t": 166.98992728287294,
+  "gas_nox_t": 900.1215000000001,
+  "gas_pm_t": 684.09234,
+  "notes": "engine factors are regulatory limits, not measurements; gas factors are typical for SCR-equipped combined cycle"
+ },
+ "comparison": {
+  "it_gw": 3.75136785,
+  "wonder_valley_full_it_gw": 6.8181818181818175,
+  "gas_pj_equal_it": 227.39911578947374,
+  "gas_bcm_equal_it": 5.9999766699069585,
+  "gas_pj_full_scale": 414.94736842105266,
+  "gas_bcm_full_scale": 10.948479377864187,
+  "water_gl_wonder_valley": 6.0,
+  "water_gl_wonder_valley_certificate": 24.0,
+  "water_gl_digital_gardens_cooling": 0.0,
+  "community_baseline_mt": 8.721515833333333,
+  "wv_facility_mt": 15.369445377897048,
+  "wv_direct_mt": 12.80787114824754,
+  "dg_facility_mt": 1.877978867178722,
+  "dg_n2o_mt": 0.03326552344529203,
+  "reductions_full_mt": 0.8188744375965104,
+  "reductions_no_seaweed_mt": 0.732124040520894,
+  "reductions_limited_mt": 0.36653279503557845,
+  "ledger_wv_mt": 24.09096121123038,
+  "ledger_dg_full_mt": 9.813885786360837,
+  "ledger_dg_limited_mt": 10.26622742892177,
+  "net_added_wv_mt": 15.369445377897048,
+  "net_added_dg_full_mt": 1.0923699530275037,
+  "net_added_dg_limited_mt": 1.5447115955884358,
+  "per_gw_it_wv_mt": 4.097024336842106,
+  "per_gw_it_dg_net_full_mt": 0.2911924387866958,
+  "wv_full_scale_mt": 27.934256842105267,
+  "dg_at_wv_scale_net_full_mt": 1.9854029917274714
+ },
+ "drying_central": {
+  "capex_bn": 0.6605662686551839,
+  "capacity_mw_th": 723.4143148046412,
+  "heat_twh": 2.978289774102754,
+  "water_mt": 2.0624673204430612,
+  "gas_heat_cad_mwh_yr1": 36.0,
+  "gas_heat_cad_mwh_yr25": 54.59029391628727,
+  "revenue_m_cad_yr1": 99.48774574877059,
+  "cost_m_cad_yr1": 103.43733659387699,
+  "margin_m_cad_yr1": -3.949590845106393,
+  "margin_m_cad_mean": 14.480074419018193,
+  "customer_saving_m_cad_yr1": 33.162581916256876,
+  "customer_saving_m_cad_mean": 39.305803670965055,
+  "npv_25y_bn": 0.12193419432307757,
+  "gas_gj_displaced": 3411790.2824377026,
+  "ghg_reduction_t": 187273.16860300553,
+  "per_market": [
+   {
+    "market": "Hay and alfalfa (barn-dried bales and cubes for export)",
+    "heat_twh": 0.17862,
+    "water_kt": 137.4,
+    "full_load_hours": 3.1212,
+    "gas_cost_cad_t_water_yr1": 61.44243791521596,
+    "price_cad_t_water_yr1": 46.08182843641197,
+    "dg_cost_cad_t_water": 71.92063203891031,
+    "gas_cost_cad_mwh_yr1": 47.26341378093535,
+    "dg_cost_cad_mwh": 55.32356310685409,
+    "margin_m_cad_yr1": -3.5502516149832726,
+    "margin_m_cad_mean": -2.4449505666762263,
+    "customer_saving_m_cad_yr1": 2.110547742387668,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 30 km",
+    "delivery_m_cad": 6.05934,
+    "dg_margin_cad_t_water": -25.838803602498345
+   },
+   {
+    "market": "Berries, cherries and apples (dried, infused, powders)",
+    "heat_twh": 0.05263999999999999,
+    "water_kt": 37.6,
+    "full_load_hours": 2.5092,
+    "gas_cost_cad_t_water_yr1": 70.01482302338496,
+    "price_cad_t_water_yr1": 52.51111726753872,
+    "dg_cost_cad_t_water": 42.89316374443146,
+    "gas_cost_cad_mwh_yr1": 50.01058787384641,
+    "dg_cost_cad_mwh": 30.637974103165334,
+    "margin_m_cad_yr1": 0.36163505246883304,
+    "margin_m_cad_mean": 0.6873715163747951,
+    "customer_saving_m_cad_yr1": 0.6581393364198187,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 25 km",
+    "delivery_m_cad": 0.2115,
+    "dg_margin_cad_t_water": 9.617953523107262
+   },
+   {
+    "market": "Fruit pomace and grape marc (feed and flour)",
+    "heat_twh": 0.0308,
+    "water_kt": 22.0,
+    "full_load_hours": 2.4888,
+    "gas_cost_cad_t_water_yr1": 70.17560026128159,
+    "price_cad_t_water_yr1": 52.63170019596119,
+    "dg_cost_cad_t_water": 45.373640496435,
+    "gas_cost_cad_mwh_yr1": 50.12542875805828,
+    "dg_cost_cad_mwh": 32.40974321173928,
+    "margin_m_cad_yr1": 0.15967731338957616,
+    "margin_m_cad_mean": 0.35026779758987303,
+    "customer_saving_m_cad_yr1": 0.38596580143704873,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 20 km",
+    "delivery_m_cad": 0.1716,
+    "dg_margin_cad_t_water": 7.258059699526189
+   },
+   {
+    "market": "Grain, seed and corn (Fraser Valley and Shuswap)",
+    "heat_twh": 0.00936,
+    "water_kt": 7.2,
+    "full_load_hours": 2.4888,
+    "gas_cost_cad_t_water_yr1": 65.16305738547574,
+    "price_cad_t_water_yr1": 48.87229303910681,
+    "dg_cost_cad_t_water": 93.38980903240393,
+    "gas_cost_cad_mwh_yr1": 50.12542875805826,
+    "dg_cost_cad_mwh": 71.83831464031071,
+    "margin_m_cad_yr1": -0.3205261151517393,
+    "margin_m_cad_mean": -0.26260640956359704,
+    "customer_saving_m_cad_yr1": 0.11729350329385634,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 25 km",
+    "delivery_m_cad": 0.4212000000000001,
+    "dg_margin_cad_t_water": -44.517515993297124
+   },
+   {
+    "market": "Vegetable and herb dehydration",
+    "heat_twh": 0.023799999999999995,
+    "water_kt": 17.000000000000004,
+    "full_load_hours": 3.121199999999999,
+    "gas_cost_cad_t_water_yr1": 66.16877929330947,
+    "price_cad_t_water_yr1": 49.626584469982106,
+    "dg_cost_cad_t_water": 34.16068065728803,
+    "gas_cost_cad_mwh_yr1": 47.26341378093535,
+    "dg_cost_cad_mwh": 24.400486183777176,
+    "margin_m_cad_yr1": 0.2629203648157993,
+    "margin_m_cad_mean": 0.410194829879665,
+    "customer_saving_m_cad_yr1": 0.2812173119965653,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 20 km",
+    "delivery_m_cad": 0.0714,
+    "dg_margin_cad_t_water": 15.465903812694073
+   },
+   {
+    "market": "Lumber kiln drying (dehumidification and boosted kilns) | low-temperature stage",
+    "heat_twh": 0.5526766084327072,
+    "water_kt": 345.422880270442,
+    "full_load_hours": 7.407414047501889,
+    "gas_cost_cad_t_water_yr1": 65.19355248514266,
+    "price_cad_t_water_yr1": 48.895164363857,
+    "dg_cost_cad_t_water": 39.871466033738606,
+    "gas_cost_cad_mwh_yr1": 40.74597030321417,
+    "dg_cost_cad_mwh": 24.91966627108663,
+    "margin_m_cad_yr1": 3.116991867881073,
+    "margin_m_cad_mean": 6.536956231756641,
+    "customer_saving_m_cad_yr1": 5.629836168620054,
+    "bought_el_gwh": 0.0,
+    "delivery": "pipe 5 km",
+    "delivery_m_cad": 8.788841773263854,
+    "dg_margin_cad_t_water": 9.023698330118393
+   },
+   {
+    "market": "Lumber kiln drying (dehumidification and boosted kilns) | boosted stage in curtailed hours",
+    "heat_twh": 0.5553319405356352,
+    "water_kt": 347.08246283477195,
+    "full_load_hours": 2.117772238531159,
+    "gas_cost_cad_t_water_yr1": 84.16026286750339,
+    "price_cad_t_water_yr1": 63.12019715062755,
+    "dg_cost_cad_t_water": 112.4384461390977,
+    "gas_cost_cad_mwh_yr1": 52.60016429218961,
+    "dg_cost_cad_mwh": 70.27402883693605,
+    "margin_m_cad_yr1": -17.117499321616723,
+    "margin_m_cad_mean": -13.681103755429154,
+    "customer_saving_m_cad_yr1": 7.302637827218719,
+    "bought_el_gwh": 0.0,
+    "delivery": "pipe 0 km",
+    "delivery_m_cad": 0.0,
+    "dg_margin_cad_t_water": -49.31824898847016
+   },
+   {
+    "market": "Wood pellets (sawdust and shavings belt dryers) | low-temperature stage",
+    "heat_twh": 0.5872555346993904,
+    "water_kt": 419.46823907099326,
+    "full_load_hours": 7.230001176209757,
+    "gas_cost_cad_t_water_yr1": 57.207400542648216,
+    "price_cad_t_water_yr1": 42.905550406986166,
+    "dg_cost_cad_t_water": 21.31499761181182,
+    "gas_cost_cad_mwh_yr1": 40.862428959034446,
+    "dg_cost_cad_mwh": 15.224998294151304,
+    "margin_m_cad_yr1": 9.056551161561094,
+    "margin_m_cad_mean": 12.690490015705933,
+    "customer_saving_m_cad_yr1": 5.999171891863406,
+    "bought_el_gwh": 0.0,
+    "delivery": "pipe 4 km",
+    "delivery_m_cad": 3.515536709305542,
+    "dg_margin_cad_t_water": 21.590552795174347
+   },
+   {
+    "market": "Wood pellets (sawdust and shavings belt dryers) | boosted stage in curtailed hours",
+    "heat_twh": 0.14907234810910844,
+    "water_kt": 106.48024864936318,
+    "full_load_hours": 2.0888121925440464,
+    "gas_cost_cad_t_water_yr1": 73.96244094416818,
+    "price_cad_t_water_yr1": 55.47183070812614,
+    "dg_cost_cad_t_water": 99.74766666364536,
+    "gas_cost_cad_mwh_yr1": 52.830314960120134,
+    "dg_cost_cad_mwh": 71.24833333117527,
+    "margin_m_cad_yr1": -4.714502021702102,
+    "margin_m_cad_mean": -3.7920419240725507,
+    "customer_saving_m_cad_yr1": 1.9688847756122165,
+    "bought_el_gwh": 0.0,
+    "delivery": "pipe 0 km",
+    "delivery_m_cad": 0.0,
+    "dg_margin_cad_t_water": -44.27583595551923
+   },
+   {
+    "market": "Biomass residue drying for biochar, boiler fuel and district energy",
+    "heat_twh": 0.3699572338262234,
+    "water_kt": 274.042395426832,
+    "full_load_hours": 7.1346841830356365,
+    "gas_cost_cad_t_water_yr1": 55.25197566676764,
+    "price_cad_t_water_yr1": 41.438981750075726,
+    "dg_cost_cad_t_water": 30.638753766858464,
+    "gas_cost_cad_mwh_yr1": 40.92738938279082,
+    "dg_cost_cad_mwh": 22.69537316063589,
+    "margin_m_cad_yr1": 2.9597203476767615,
+    "margin_m_cad_mean": 5.249016721973592,
+    "customer_saving_m_cad_yr1": 3.78534594094651,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 20 km",
+    "delivery_m_cad": 4.932763117682976,
+    "dg_margin_cad_t_water": 10.800227983217262
+   },
+   {
+    "market": "Municipal biosolids (belt-dried to 90% solids)",
+    "heat_twh": 0.08319057443115974,
+    "water_kt": 63.992749562430554,
+    "full_load_hours": 7.042775651081505,
+    "gas_cost_cad_t_water_yr1": 53.289199640194994,
+    "price_cad_t_water_yr1": 39.966899730146245,
+    "dg_cost_cad_t_water": 16.01947931637046,
+    "gas_cost_cad_mwh_yr1": 40.99169203091921,
+    "dg_cost_cad_mwh": 12.322676397208042,
+    "margin_m_cad_yr1": 1.5324612772049908,
+    "margin_m_cad_mean": 2.047244779209392,
+    "customer_saving_m_cad_yr1": 0.8525306017393405,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 15 km",
+    "delivery_m_cad": 0.23613324588536877,
+    "dg_margin_cad_t_water": 23.947420413775784
+   },
+   {
+    "market": "Fish-processing by-products and insect meal | low-temperature stage",
+    "heat_twh": 0.041224321797422546,
+    "water_kt": 29.44594414101611,
+    "full_load_hours": 7.325086866029866,
+    "gas_cost_cad_t_water_yr1": 57.11903484974684,
+    "price_cad_t_water_yr1": 42.83927613731013,
+    "dg_cost_cad_t_water": 16.066166214519008,
+    "gas_cost_cad_mwh_yr1": 40.79931060696203,
+    "dg_cost_cad_mwh": 11.475833010370723,
+    "margin_m_cad_yr1": 0.7883594992677914,
+    "margin_m_cad_mean": 1.0434557152482984,
+    "customer_saving_m_cad_yr1": 0.42048097739359946,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 10 km",
+    "delivery_m_cad": 0.09717161566535318,
+    "dg_margin_cad_t_water": 26.773109922791118
+   },
+   {
+    "market": "Fish-processing by-products and insect meal | boosted stage in curtailed hours",
+    "heat_twh": 0.01794981815867524,
+    "water_kt": 12.82129868476803,
+    "full_load_hours": 2.117518235579722,
+    "gas_cost_cad_t_water_yr1": 73.64301774752042,
+    "price_cad_t_water_yr1": 55.232263310640306,
+    "dg_cost_cad_t_water": 101.69544179783641,
+    "gas_cost_cad_mwh_yr1": 52.602155533943154,
+    "dg_cost_cad_mwh": 72.63960128416886,
+    "margin_m_cad_yr1": -0.5957182892280295,
+    "margin_m_cad_mean": -0.4846447653913673,
+    "customer_saving_m_cad_yr1": 0.2360497816471581,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 10 km",
+    "delivery_m_cad": 0.04231028565973449,
+    "dg_margin_cad_t_water": -46.463178487196096
+   },
+   {
+    "market": "Brewers' and distillers' spent grain (dried feed)",
+    "heat_twh": 0.03627339502850594,
+    "water_kt": 25.909567877504244,
+    "full_load_hours": 6.698702861663076,
+    "gas_cost_cad_t_water_yr1": 57.74732006280667,
+    "price_cad_t_water_yr1": 43.31049004710501,
+    "dg_cost_cad_t_water": 20.634908119332675,
+    "gas_cost_cad_mwh_yr1": 41.24808575914763,
+    "dg_cost_cad_mwh": 14.739220085237626,
+    "margin_m_cad_yr1": 0.5875145291195258,
+    "margin_m_cad_mean": 0.8119743967192524,
+    "customer_saving_m_cad_yr1": 0.3740520272278129,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 25 km",
+    "delivery_m_cad": 0.17294636558234078,
+    "dg_margin_cad_t_water": 22.675581927772335
+   },
+   {
+    "market": "Digestate solids and poultry litter (fertiliser pellets)",
+    "heat_twh": 0.22596796172264663,
+    "water_kt": 173.82150901742045,
+    "full_load_hours": 7.312287887817588,
+    "gas_cost_cad_t_water_yr1": 53.05002433193481,
+    "price_cad_t_water_yr1": 39.7875182489511,
+    "dg_cost_cad_t_water": 16.37504623067612,
+    "gas_cost_cad_mwh_yr1": 40.80771102456523,
+    "dg_cost_cad_mwh": 12.5961894082124,
+    "margin_m_cad_yr1": 4.06959121604469,
+    "margin_m_cad_mean": 5.4678815809301895,
+    "customer_saving_m_cad_yr1": 2.305308820696945,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 15 km",
+    "delivery_m_cad": 0.7821967905783921,
+    "dg_margin_cad_t_water": 23.412472018274983
+   },
+   {
+    "market": "Malting and craft-grain kilning | low-temperature stage",
+    "heat_twh": 0.01439458993468141,
+    "water_kt": 9.596393289787608,
+    "full_load_hours": 6.805213755786525,
+    "gas_cost_cad_t_water_yr1": 61.748919068815994,
+    "price_cad_t_water_yr1": 46.311689301612,
+    "dg_cost_cad_t_water": 30.92294623075039,
+    "gas_cost_cad_mwh_yr1": 41.165946045877334,
+    "dg_cost_cad_mwh": 20.61529748716693,
+    "margin_m_cad_yr1": 0.14767643074348186,
+    "margin_m_cad_mean": 0.23675019261087304,
+    "customer_saving_m_cad_yr1": 0.14814172815090593,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 30 km",
+    "delivery_m_cad": 0.15546157129455923,
+    "dg_margin_cad_t_water": 15.388743070861604
+   },
+   {
+    "market": "Malting and craft-grain kilning | boosted stage in curtailed hours",
+    "heat_twh": 0.006734963019700311,
+    "water_kt": 4.489975346466874,
+    "full_load_hours": 2.1139053374240846,
+    "gas_cost_cad_t_water_yr1": 78.94579568252635,
+    "price_cad_t_water_yr1": 59.209346761894764,
+    "dg_cost_cad_t_water": 121.80386838936154,
+    "gas_cost_cad_mwh_yr1": 52.63053045501757,
+    "dg_cost_cad_mwh": 81.20257892624102,
+    "margin_m_cad_yr1": -0.2810478589312133,
+    "margin_m_cad_mean": -0.2393718893534284,
+    "customer_saving_m_cad_yr1": 0.08861616908043855,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 30 km",
+    "delivery_m_cad": 0.07273760061276334,
+    "dg_margin_cad_t_water": -62.59452162746677
+   },
+   {
+    "market": "Hemp, cannabis and medicinal herbs (low-temperature curing)",
+    "heat_twh": 0.01125,
+    "water_kt": 7.5,
+    "full_load_hours": 7.446,
+    "gas_cost_cad_t_water_yr1": 61.08206428143744,
+    "price_cad_t_water_yr1": 45.81154821107808,
+    "dg_cost_cad_t_water": 18.435922134731126,
+    "gas_cost_cad_mwh_yr1": 40.721376187624955,
+    "dg_cost_cad_mwh": 12.290614756487416,
+    "margin_m_cad_yr1": 0.2053171955726022,
+    "margin_m_cad_mean": 0.27493222632758074,
+    "customer_saving_m_cad_yr1": 0.11452887052769517,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 20 km",
+    "delivery_m_cad": 0.03735,
+    "dg_margin_cad_t_water": 27.375626076346958
+   },
+   {
+    "market": "Commercial laundry drying (hospitals, hotels, care homes) | low-temperature stage",
+    "heat_twh": 0.01229482160283421,
+    "water_kt": 8.196547735222806,
+    "full_load_hours": 6.935397095053298,
+    "gas_cost_cad_t_water_yr1": 61.60346522583332,
+    "price_cad_t_water_yr1": 46.202598919374985,
+    "dg_cost_cad_t_water": 26.746583929083297,
+    "gas_cost_cad_mwh_yr1": 41.068976817222214,
+    "dg_cost_cad_mwh": 17.831055952722195,
+    "margin_m_cad_yr1": 0.15947215560513633,
+    "margin_m_cad_mean": 0.2355525452947611,
+    "customer_saving_m_cad_yr1": 0.12623393584467027,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 10 km",
+    "delivery_m_cad": 0.1008175371432405,
+    "dg_margin_cad_t_water": 19.456014990291692
+   },
+   {
+    "market": "Commercial laundry drying (hospitals, hotels, care homes) | boosted stage in curtailed hours",
+    "heat_twh": 0.01949566280406367,
+    "water_kt": 12.99710853604245,
+    "full_load_hours": 2.0860605357706765,
+    "gas_cost_cad_t_water_yr1": 79.27877294802538,
+    "price_cad_t_water_yr1": 59.45907971101904,
+    "dg_cost_cad_t_water": 119.3134721466408,
+    "gas_cost_cad_mwh_yr1": 52.85251529868359,
+    "dg_cost_cad_mwh": 79.54231476442722,
+    "margin_m_cad_yr1": -0.7779340348446543,
+    "margin_m_cad_mean": -0.6572948201163359,
+    "customer_saving_m_cad_yr1": 0.25759870415243796,
+    "bought_el_gwh": 0.0,
+    "delivery": "truck 10 km",
+    "delivery_m_cad": 0.15986443499332212,
+    "dg_margin_cad_t_water": -59.85439243562177
+   }
+  ]
+ },
+ "tier_benchmark_path": {
+  "2026": 0.3404,
+  "2027": 0.333,
+  "2028": 0.32967,
+  "2029": 0.32637330000000003,
+  "2030": 0.32310956700000004,
+  "2031": 0.31987847133,
+  "2032": 0.3166796866167,
+  "2033": 0.31351288975053304,
+  "2034": 0.31037776085302765,
+  "2035": 0.3072739832444974,
+  "2036": 0.3042012434120524,
+  "2037": 0.3011592309779319,
+  "2038": 0.2981476386681526,
+  "2039": 0.295166162281471,
+  "2040": 0.2922145006586563,
+  "2041": 0.2922145006586563,
+  "2042": 0.2922145006586563,
+  "2043": 0.2922145006586563,
+  "2044": 0.2922145006586563,
+  "2045": 0.2922145006586563,
+  "2046": 0.2922145006586563,
+  "2047": 0.2922145006586563,
+  "2048": 0.2922145006586563,
+  "2049": 0.2922145006586563,
+  "2050": 0.2922145006586563,
+  "2051": 0.2922145006586563
+ },
+ "tier_benchmark_sensitivity": {
+  "benchmark -0%/yr after 2027": 72.12261110937067,
+  "benchmark -1%/yr after 2027": 75.35413829646464,
+  "benchmark -2%/yr after 2027": 78.28533793229073
+ },
+ "params": {
+  "gas": {
+   "gw": 6.0,
+   "capex_cad_kw": 1500.0,
+   "fom_cad_kw_yr": 25.0,
+   "vom_cad_mwh": 12.0,
+   "efficiency": 0.57,
+   "co2_t_per_gj": 0.0561,
+   "upstream_share": 0.2,
+   "finance_rate": 0.06,
+   "finance_years": 20,
+   "price_paths": {
+    "low_flat_3": [
+     3.0,
+     0.0
+    ],
+    "central_4_rising_3pct": [
+     4.0,
+     0.03
+    ],
+    "high_6_rising_4pct": [
+     6.0,
+     0.04
+    ]
+   },
+   "tier_price": {
+    "2026": 95,
+    "2027": 100,
+    "2028": 100,
+    "2029": 100,
+    "2030": 115,
+    "2031": 118,
+    "2032": 121,
+    "2033": 124,
+    "2034": 127,
+    "2035": 130,
+    "2036": 132,
+    "2037": 134,
+    "2038": 136,
+    "2039": 138,
+    "2040": 140
+   },
+   "tier_benchmark": {
+    "2026": 0.3404,
+    "2027": 0.333
+   },
+   "tier_benchmark_decline": 0.01,
+   "tier_benchmark_hold_from": 2040,
+   "ccs": {
+    "start": 2035,
+    "capture": 0.9,
+    "capex_cad_kw": 2000.0,
+    "finance_years": 15,
+    "fuel_penalty": 0.15,
+    "var_cad_t": 75.0,
+    "transport_storage_cad_t": 20.0
+   }
+  },
+  "lca": {
+   "wind_g_kwh": 11.0,
+   "solar_g_kwh": 35.0,
+   "battery_kg_per_kwh": 70.0,
+   "battery_life": 15,
+   "hvo_g_mj": 25.0,
+   "hvo_lhv_mj_l": 36.51,
+   "b100_mt": 0.019116000000000005
+  },
+  "compute": {
+   "products": {
+    "GB300 NVL72": {
+     "kw_per_gpu": 2.0625,
+     "capex_per_gpu": 83333.33333333333,
+     "price_factor": 1.1,
+     "note": "135 kW and US$6.0 M per 72-GPU rack incl. core network; +10% non-rack IT; rack-scale premium +10% (assumption)"
+    },
+    "HGX B300": {
+     "kw_per_gpu": 1.9250000000000003,
+     "capex_per_gpu": 67500.0,
+     "price_factor": 1.0,
+     "note": "~14 kW per 8-GPU server; US$0.54 M per server incl. networking and storage (assumption)"
+    }
+   },
+   "price_start": {
+    "spot (conservative)": 5.87,
+    "market on-demand": 8.98,
+    "premium tier": 12.0,
+    "top tier": 17.8
+   },
+   "price_step": -1.0,
+   "cycle_years": 4,
+   "generation_decline": {
+    "prices held each generation": 0.0,
+    "prices compress 15% per generation": 0.15
+   },
+   "residual": 0.2,
+   "sold": 0.85,
+   "label_premium": [
+    0.0,
+    0.25,
+    0.5,
+    1.0,
+    2.0
+   ],
+   "label_eligible_share": 0.5,
+   "label_admin_usd": 3000000.0,
+   "facility_capex_usd_mw": 10000000.0,
+   "maintenance_frac": 0.025,
+   "insurance_frac": 0.005,
+   "fte_per_mw": 0.25,
+   "usd_per_fte": 90000.0,
+   "network_ops_usd_mw": 50000.0,
+   "tax": 0.27,
+   "wacc": 0.09
+  },
+  "population": {
+   "lillooet": 2302,
+   "cache_creek": 969,
+   "kamloops": 97902,
+   "chase": 2399,
+   "salmon_arm": 19432,
+   "vernon": 44519,
+   "kelowna": 144576,
+   "west_kelowna": 36078,
+   "penticton": 36885,
+   "oliver": 5094,
+   "osoyoos": 5556,
+   "hope": 6686,
+   "agassiz_kent": 6300,
+   "chilliwack": 93203,
+   "abbotsford": 153524,
+   "mission": 41519,
+   "maple_ridge": 90990
+  },
+  "ev": {
+   "vehicles": 5000,
+   "cad_per_vehicle": 35000.0,
+   "km_yr": 15000.0,
+   "l_per_100km": 8.9,
+   "kg_co2_per_l": 2.31,
+   "upstream_share": 0.2,
+   "kwh_per_100km": 18.0,
+   "vehicles_per_person": 0.68
+  },
+  "fraser_valley_nodes": [
+   "hope",
+   "agassiz_kent",
+   "chilliwack",
+   "abbotsford",
+   "mission",
+   "maple_ridge"
+  ],
+  "heat": {
+   "persons_per_household": 2.4,
+   "connected_share": 0.6,
+   "gas_heated_share": 0.6,
+   "ua_kw_per_k": 0.2,
+   "base_c": 15.5,
+   "dhw_l_person_day": 50.0,
+   "dhw_c": 45.0,
+   "mains_c": 8.0,
+   "furnace_eff": 0.92,
+   "water_heater_eff": 0.62,
+   "network_loss": 0.15,
+   "boost_below_c": -5.0,
+   "boost_share": 0.3,
+   "booster_cop": 3.5,
+   "gas_t_per_gj": 0.0499,
+   "gas_upstream_share": 0.1,
+   "capex_cad_household": 18000.0,
+   "om_frac": 0.015,
+   "life": 40,
+   "gas_price_cad_gj": 13.0,
+   "tariff_share_of_avoided_bill": 0.7,
+   "recoverable_heat_share_it": 0.85
+  },
+  "livestock": {
+   "fv_dairy_cows": 49159,
+   "fv_pigs": 66965,
+   "tnrd_beef_cows": 38848,
+   "enteric_kg_ch4": {
+    "dairy": 141.0,
+    "beef": 113.0
+   },
+   "gwp_ch4": 28.0,
+   "manure_kg_ch4_baseline": {
+    "dairy": 45.0,
+    "pig": 10.0
+   },
+   "ad_storage_reduction": 0.8,
+   "fugitive_baseline": 0.025,
+   "fugitive_with_sensors": 0.005,
+   "biogas_m3_ch4_yr": {
+    "dairy": 394.0,
+    "pig": 44.0
+   },
+   "plant_waste_t": 100000.0,
+   "plant_waste_m3_ch4_t": 60.0,
+   "ch4_mj_m3": 35.8,
+   "digester_heat_share": 0.2,
+   "rng_cad_gj": 25.0,
+   "ad_capex_cad_per_gj_yr": 60.0,
+   "ad_om_frac": 0.05,
+   "sensor_sites": 20,
+   "sensor_capex_cad": 50000.0,
+   "sensor_om_cad": 10000.0,
+   "farm_diesel_l": {
+    "dairy": 400.0,
+    "beef": 100.0
+   },
+   "diesel_kg_co2e_l": 3.2,
+   "hvo_reduction": 0.75
+  },
+  "asparagopsis": {
+   "dmi_kg_day": {
+    "dairy": 21.0,
+    "beef": 12.0
+   },
+   "dose_dm": 0.005,
+   "bromoform_retention": 0.7,
+   "coverage": {
+    "dairy": 0.9,
+    "beef": 0.410958904109589
+   },
+   "reduction": {
+    "dairy": 0.3,
+    "beef": 0.68
+   },
+   "reduction_best": {
+    "dairy": 0.5,
+    "beef": 0.68
+   },
+   "productivity_g_dw_m2_day": 12.0,
+   "capex_cad_m2": 250.0,
+   "om_frac": 0.08,
+   "milk_kg_day": 33.0,
+   "milk_loss": 0.07,
+   "milk_cad_kg": 0.95,
+   "regulatory": "not yet registered as a livestock feed in Canada (CFIA)"
+  },
+  "drying": {
+   "water_t": {
+    "digestate_solids": 107000.0,
+    "poultry_litter": 70000.0,
+    "hay_forage": 50000.0,
+    "fruit_berries": 40000.0
+   },
+   "kwh_th_per_kg_water": 1.36,
+   "displaced_fossil_share": 0.5,
+   "service_value_cad_t_water": 60.0
+  }
+ }
+}

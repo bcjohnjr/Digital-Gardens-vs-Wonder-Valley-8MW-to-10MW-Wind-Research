@@ -1,0 +1,6 @@
+site_key,gwa_mean_100m_ms,gwa_version,source_url,retrieved_utc,notes
+highland_valley_wind_project_area,7.00627,Global Wind Atlas (as downloaded),https://globalwindatlas.info/download/gis-files,2026-11-06T00:54:00.703944+00:00,"CAN_wind-speed_100m.tif; original GWA 100-m wind-speed raster; screening proxy, not observed wind"
+mount_mabel_summit,8.45560,Global Wind Atlas (as downloaded),https://globalwindatlas.info/download/gis-files,2026-11-06T00:54:00.703944+00:00,"CAN_wind-speed_100m.tif; original GWA 100-m wind-speed raster; screening proxy, not observed wind"
+pennask_mountain_summit,10.10171,Global Wind Atlas (as downloaded),https://globalwindatlas.info/download/gis-files,2026-11-06T00:54:00.703944+00:00,"CAN_wind-speed_100m.tif; original GWA 100-m wind-speed raster; screening proxy, not observed wind"
+nicola_wind_project_regional_proxy,4.72873,Global Wind Atlas (as downloaded),https://globalwindatlas.info/download/gis-files,2026-11-06T00:54:00.703944+00:00,"CAN_wind-speed_100m.tif; original GWA 100-m wind-speed raster; screening proxy, not observed wind"
+cache_wind_northern_area_proxy,7.36945,Global Wind Atlas (as downloaded),https://globalwindatlas.info/download/gis-files,2026-11-06T00:54:00.703944+00:00,"CAN_wind-speed_100m.tif; original GWA 100-m wind-speed raster; screening proxy, not observed wind"

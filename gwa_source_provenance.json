@@ -1,0 +1,22 @@
+{
+  "extracted_utc": "2026-11-06T00:54:00.703944+00:00",
+  "source_file": "CAN_wind-speed_100m.tif",
+  "source_file_size_bytes": 1292765109,
+  "source_url": "https://globalwindatlas.info/download/gis-files",
+  "selected_layer": "100-m mean wind speed (user-selected; verify the source TIFF)",
+  "raster_crs": "EPSG:4326",
+  "raster_size_pixels": [
+    37340,
+    15988
+  ],
+  "native_pixel_size": [
+    0.002500000000000001,
+    0.002500000000000001
+  ],
+  "dataset_units": null,
+  "band_scale": 1.0,
+  "band_offset": 0.0,
+  "method": "CRS-transformed, native-grid nearest-cell sample; report local 3x3 variability.",
+  "interpretation": "These are modelled atlas means at approximate/proxy positions; not site-specific mast or hourly validation.",
+  "sites": 5
+}

@@ -1,0 +1,3 @@
+portfolio,wind_GW,solar_GW,wind_density_MW_per_km2,wind_spacing_envelope_km2,solar_density_ha_per_MW_low,solar_density_ha_per_MW_high,solar_land_km2_low,solar_land_km2_high,qualification
+expanded_screen,9.566532,40.484227,3,3188.843837,1.500000,2,607.263400,809.684533,indicative planning assumption; land not mapped or secured
+solar_50GW_sensitivity,8.343558,50.000000,3,2781.186000,1.500000,2,750.000000,1000.000000,solar land sensitivity; no parcel-level siting

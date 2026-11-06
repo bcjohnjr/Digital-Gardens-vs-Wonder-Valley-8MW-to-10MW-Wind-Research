@@ -1,0 +1,97 @@
+product,tier,market,gas_case,labelled_share,npv_gap_bn,premium_usd_per_labelled_hour,premium_equivalent_on_all_hours
+GB300 NVL72,spot (conservative),prices held each generation,"Gas (central price, TIER)",0.50000,41.91830,0.84931,0.42465
+GB300 NVL72,spot (conservative),prices held each generation,"Gas (central price, TIER)",1.00000,41.91830,0.42813,0.42813
+GB300 NVL72,spot (conservative),prices held each generation,"Gas (central price, full carbon price)",0.50000,34.92500,0.70761,0.35381
+GB300 NVL72,spot (conservative),prices held each generation,"Gas (central price, full carbon price)",1.00000,34.92500,0.35670,0.35670
+GB300 NVL72,spot (conservative),prices held each generation,"Gas (central price, CCS from 2035)",0.50000,36.68108,0.74319,0.37160
+GB300 NVL72,spot (conservative),prices held each generation,"Gas (central price, CCS from 2035)",1.00000,36.68108,0.37464,0.37464
+GB300 NVL72,spot (conservative),prices compress 15% per generation,"Gas (central price, TIER)",0.50000,45.61969,0.83672,0.41836
+GB300 NVL72,spot (conservative),prices compress 15% per generation,"Gas (central price, TIER)",1.00000,45.61969,0.42296,0.42296
+GB300 NVL72,spot (conservative),prices compress 15% per generation,"Gas (central price, full carbon price)",0.50000,37.68985,0.69127,0.34564
+GB300 NVL72,spot (conservative),prices compress 15% per generation,"Gas (central price, full carbon price)",1.00000,37.68985,0.34944,0.34944
+GB300 NVL72,spot (conservative),prices compress 15% per generation,"Gas (central price, CCS from 2035)",0.50000,39.12478,0.71759,0.35880
+GB300 NVL72,spot (conservative),prices compress 15% per generation,"Gas (central price, CCS from 2035)",1.00000,39.12478,0.36274,0.36274
+GB300 NVL72,market on-demand,prices held each generation,"Gas (central price, TIER)",0.50000,41.11770,0.84682,0.42341
+GB300 NVL72,market on-demand,prices held each generation,"Gas (central price, TIER)",1.00000,41.11770,0.42341,0.42341
+GB300 NVL72,market on-demand,prices held each generation,"Gas (central price, full carbon price)",0.50000,34.12439,0.70279,0.35140
+GB300 NVL72,market on-demand,prices held each generation,"Gas (central price, full carbon price)",1.00000,34.12439,0.35140,0.35140
+GB300 NVL72,market on-demand,prices held each generation,"Gas (central price, CCS from 2035)",0.50000,35.88048,0.73896,0.36948
+GB300 NVL72,market on-demand,prices held each generation,"Gas (central price, CCS from 2035)",1.00000,35.88048,0.36948,0.36948
+GB300 NVL72,market on-demand,prices compress 15% per generation,"Gas (central price, TIER)",0.50000,41.93361,0.83790,0.41895
+GB300 NVL72,market on-demand,prices compress 15% per generation,"Gas (central price, TIER)",1.00000,41.93361,0.42252,0.42252
+GB300 NVL72,market on-demand,prices compress 15% per generation,"Gas (central price, full carbon price)",0.50000,34.73564,0.69408,0.34704
+GB300 NVL72,market on-demand,prices compress 15% per generation,"Gas (central price, full carbon price)",1.00000,34.73564,0.35000,0.35000
+GB300 NVL72,market on-demand,prices compress 15% per generation,"Gas (central price, CCS from 2035)",0.50000,36.36038,0.72654,0.36327
+GB300 NVL72,market on-demand,prices compress 15% per generation,"Gas (central price, CCS from 2035)",1.00000,36.36038,0.36637,0.36637
+GB300 NVL72,premium tier,prices held each generation,"Gas (central price, TIER)",0.50000,41.11770,0.84682,0.42341
+GB300 NVL72,premium tier,prices held each generation,"Gas (central price, TIER)",1.00000,41.11770,0.42341,0.42341
+GB300 NVL72,premium tier,prices held each generation,"Gas (central price, full carbon price)",0.50000,34.12439,0.70279,0.35140
+GB300 NVL72,premium tier,prices held each generation,"Gas (central price, full carbon price)",1.00000,34.12439,0.35140,0.35140
+GB300 NVL72,premium tier,prices held each generation,"Gas (central price, CCS from 2035)",0.50000,35.88048,0.73896,0.36948
+GB300 NVL72,premium tier,prices held each generation,"Gas (central price, CCS from 2035)",1.00000,35.88048,0.36948,0.36948
+GB300 NVL72,premium tier,prices compress 15% per generation,"Gas (central price, TIER)",0.50000,41.11527,0.84437,0.42219
+GB300 NVL72,premium tier,prices compress 15% per generation,"Gas (central price, TIER)",1.00000,41.11527,0.42278,0.42278
+GB300 NVL72,premium tier,prices compress 15% per generation,"Gas (central price, full carbon price)",0.50000,34.08605,0.70001,0.35001
+GB300 NVL72,premium tier,prices compress 15% per generation,"Gas (central price, full carbon price)",1.00000,34.08605,0.35050,0.35050
+GB300 NVL72,premium tier,prices compress 15% per generation,"Gas (central price, CCS from 2035)",0.50000,35.84854,0.73621,0.36811
+GB300 NVL72,premium tier,prices compress 15% per generation,"Gas (central price, CCS from 2035)",1.00000,35.84854,0.36863,0.36863
+GB300 NVL72,top tier,prices held each generation,"Gas (central price, TIER)",0.50000,41.11770,0.84682,0.42341
+GB300 NVL72,top tier,prices held each generation,"Gas (central price, TIER)",1.00000,41.11770,0.42341,0.42341
+GB300 NVL72,top tier,prices held each generation,"Gas (central price, full carbon price)",0.50000,34.12439,0.70279,0.35140
+GB300 NVL72,top tier,prices held each generation,"Gas (central price, full carbon price)",1.00000,34.12439,0.35140,0.35140
+GB300 NVL72,top tier,prices held each generation,"Gas (central price, CCS from 2035)",0.50000,35.88048,0.73896,0.36948
+GB300 NVL72,top tier,prices held each generation,"Gas (central price, CCS from 2035)",1.00000,35.88048,0.36948,0.36948
+GB300 NVL72,top tier,prices compress 15% per generation,"Gas (central price, TIER)",0.50000,41.11770,0.84682,0.42341
+GB300 NVL72,top tier,prices compress 15% per generation,"Gas (central price, TIER)",1.00000,41.11770,0.42341,0.42341
+GB300 NVL72,top tier,prices compress 15% per generation,"Gas (central price, full carbon price)",0.50000,34.12439,0.70279,0.35140
+GB300 NVL72,top tier,prices compress 15% per generation,"Gas (central price, full carbon price)",1.00000,34.12439,0.35140,0.35140
+GB300 NVL72,top tier,prices compress 15% per generation,"Gas (central price, CCS from 2035)",0.50000,35.88048,0.73896,0.36948
+GB300 NVL72,top tier,prices compress 15% per generation,"Gas (central price, CCS from 2035)",1.00000,35.88048,0.36948,0.36948
+HGX B300,spot (conservative),prices held each generation,"Gas (central price, TIER)",0.50000,41.11770,0.79037,0.39518
+HGX B300,spot (conservative),prices held each generation,"Gas (central price, TIER)",1.00000,41.11770,0.39518,0.39518
+HGX B300,spot (conservative),prices held each generation,"Gas (central price, full carbon price)",0.50000,34.12439,0.65594,0.32797
+HGX B300,spot (conservative),prices held each generation,"Gas (central price, full carbon price)",1.00000,34.12439,0.32797,0.32797
+HGX B300,spot (conservative),prices held each generation,"Gas (central price, CCS from 2035)",0.50000,35.88048,0.68970,0.34485
+HGX B300,spot (conservative),prices held each generation,"Gas (central price, CCS from 2035)",1.00000,35.88048,0.34485,0.34485
+HGX B300,spot (conservative),prices compress 15% per generation,"Gas (central price, TIER)",0.50000,45.05843,0.78165,0.39082
+HGX B300,spot (conservative),prices compress 15% per generation,"Gas (central price, TIER)",1.00000,45.05843,0.39733,0.39733
+HGX B300,spot (conservative),prices compress 15% per generation,"Gas (central price, full carbon price)",0.50000,37.25271,0.64624,0.32312
+HGX B300,spot (conservative),prices compress 15% per generation,"Gas (central price, full carbon price)",1.00000,37.25271,0.32850,0.32850
+HGX B300,spot (conservative),prices compress 15% per generation,"Gas (central price, CCS from 2035)",0.50000,38.76983,0.67256,0.33628
+HGX B300,spot (conservative),prices compress 15% per generation,"Gas (central price, CCS from 2035)",1.00000,38.76983,0.34188,0.34188
+HGX B300,market on-demand,prices held each generation,"Gas (central price, TIER)",0.50000,41.11770,0.79037,0.39518
+HGX B300,market on-demand,prices held each generation,"Gas (central price, TIER)",1.00000,41.11770,0.39518,0.39518
+HGX B300,market on-demand,prices held each generation,"Gas (central price, full carbon price)",0.50000,34.12439,0.65594,0.32797
+HGX B300,market on-demand,prices held each generation,"Gas (central price, full carbon price)",1.00000,34.12439,0.32797,0.32797
+HGX B300,market on-demand,prices held each generation,"Gas (central price, CCS from 2035)",0.50000,35.88048,0.68970,0.34485
+HGX B300,market on-demand,prices held each generation,"Gas (central price, CCS from 2035)",1.00000,35.88048,0.34485,0.34485
+HGX B300,market on-demand,prices compress 15% per generation,"Gas (central price, TIER)",0.50000,41.60589,0.78407,0.39204
+HGX B300,market on-demand,prices compress 15% per generation,"Gas (central price, TIER)",1.00000,41.60589,0.39368,0.39368
+HGX B300,market on-demand,prices compress 15% per generation,"Gas (central price, full carbon price)",0.50000,34.48686,0.64991,0.32496
+HGX B300,market on-demand,prices compress 15% per generation,"Gas (central price, full carbon price)",1.00000,34.48686,0.32632,0.32632
+HGX B300,market on-demand,prices compress 15% per generation,"Gas (central price, CCS from 2035)",0.50000,36.19123,0.68203,0.34102
+HGX B300,market on-demand,prices compress 15% per generation,"Gas (central price, CCS from 2035)",1.00000,36.19123,0.34245,0.34245
+HGX B300,premium tier,prices held each generation,"Gas (central price, TIER)",0.50000,41.11770,0.79037,0.39518
+HGX B300,premium tier,prices held each generation,"Gas (central price, TIER)",1.00000,41.11770,0.39518,0.39518
+HGX B300,premium tier,prices held each generation,"Gas (central price, full carbon price)",0.50000,34.12439,0.65594,0.32797
+HGX B300,premium tier,prices held each generation,"Gas (central price, full carbon price)",1.00000,34.12439,0.32797,0.32797
+HGX B300,premium tier,prices held each generation,"Gas (central price, CCS from 2035)",0.50000,35.88048,0.68970,0.34485
+HGX B300,premium tier,prices held each generation,"Gas (central price, CCS from 2035)",1.00000,35.88048,0.34485,0.34485
+HGX B300,premium tier,prices compress 15% per generation,"Gas (central price, TIER)",0.50000,41.11527,0.79015,0.39507
+HGX B300,premium tier,prices compress 15% per generation,"Gas (central price, TIER)",1.00000,41.11527,0.39512,0.39512
+HGX B300,premium tier,prices compress 15% per generation,"Gas (central price, full carbon price)",0.50000,34.08605,0.65506,0.32753
+HGX B300,premium tier,prices compress 15% per generation,"Gas (central price, full carbon price)",1.00000,34.08605,0.32757,0.32757
+HGX B300,premium tier,prices compress 15% per generation,"Gas (central price, CCS from 2035)",0.50000,35.84854,0.68893,0.34447
+HGX B300,premium tier,prices compress 15% per generation,"Gas (central price, CCS from 2035)",1.00000,35.84854,0.34450,0.34450
+HGX B300,top tier,prices held each generation,"Gas (central price, TIER)",0.50000,41.11770,0.79037,0.39518
+HGX B300,top tier,prices held each generation,"Gas (central price, TIER)",1.00000,41.11770,0.39518,0.39518
+HGX B300,top tier,prices held each generation,"Gas (central price, full carbon price)",0.50000,34.12439,0.65594,0.32797
+HGX B300,top tier,prices held each generation,"Gas (central price, full carbon price)",1.00000,34.12439,0.32797,0.32797
+HGX B300,top tier,prices held each generation,"Gas (central price, CCS from 2035)",0.50000,35.88048,0.68970,0.34485
+HGX B300,top tier,prices held each generation,"Gas (central price, CCS from 2035)",1.00000,35.88048,0.34485,0.34485
+HGX B300,top tier,prices compress 15% per generation,"Gas (central price, TIER)",0.50000,41.11770,0.79037,0.39518
+HGX B300,top tier,prices compress 15% per generation,"Gas (central price, TIER)",1.00000,41.11770,0.39518,0.39518
+HGX B300,top tier,prices compress 15% per generation,"Gas (central price, full carbon price)",0.50000,34.12439,0.65594,0.32797
+HGX B300,top tier,prices compress 15% per generation,"Gas (central price, full carbon price)",1.00000,34.12439,0.32797,0.32797
+HGX B300,top tier,prices compress 15% per generation,"Gas (central price, CCS from 2035)",0.50000,35.88048,0.68970,0.34485
+HGX B300,top tier,prices compress 15% per generation,"Gas (central price, CCS from 2035)",1.00000,35.88048,0.34485,0.34485

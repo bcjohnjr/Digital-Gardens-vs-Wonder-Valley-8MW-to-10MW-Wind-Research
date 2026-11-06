@@ -1,0 +1,6 @@
+site_key,latitude,longitude,point_speed_100m_ms,neighborhood_3x3_mean_ms,neighborhood_3x3_min_ms,neighborhood_3x3_max_ms,valid_cells_in_3x3,coordinate_type
+highland_valley_wind_project_area,50.5763,-121.043,7.00627,6.95904,5.88088,7.74789,9,approximate_project_centroid
+mount_mabel_summit,50.3075,-120.572778,8.4556,7.67833,7.05746,8.4556,9,official_named_mountain
+pennask_mountain_summit,49.886244,-120.120003,10.10171,9.74286,9.17986,10.79657,9,published_peak_location
+nicola_wind_project_regional_proxy,50.1,-120.8,4.72873,4.79336,4.33071,5.12107,9,approximate_regional_proxy
+cache_wind_northern_area_proxy,50.946,-121.3246,7.36945,7.3561,7.14289,7.63945,9,offset_from_town_not_project_coordinate

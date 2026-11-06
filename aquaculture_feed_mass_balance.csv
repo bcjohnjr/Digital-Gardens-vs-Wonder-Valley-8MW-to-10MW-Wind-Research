@@ -1,0 +1,5 @@
+species,annual_liveweight_t,assumed_FCR_feed_t_per_liveweight_t,required_dry_equivalent_feed_t
+salmon,52800,1.25,66000.0
+trout,30000,1.25,37500.0
+prawns,12000,1.8,21600.0
+tilapia,25200,1.6,40320.0

@@ -1,0 +1,4 @@
+vegetable_output_t_y,assuming_yield_kg_m2_y,required_greenhouse_km2,site_count,greenhouse_ha_per_site
+250000,25,10.0,17,58.8235294117647
+250000,35,7.142857142857142,17,42.01680672268907
+250000,50,5.0,17,29.41176470588235

@@ -1,0 +1,11 @@
+case,site_key,raw_era5_mean_speed_ms,model_speed_multiplier,model_annual_cf,terrain_corrected_mean_speed_ms,not_an_hourly_validation,gwa_100m_mean_ms
+raw_era5,pennask_mountain_summit,4.286016464233398,1.0,0.05704078472984472,4.286016464233398,True,10.10171
+raw_era5,mount_mabel_summit,3.687035322189331,1.0,0.037737610039606545,3.687035322189331,True,8.4556
+raw_era5,nicola_wind_project_regional_proxy,3.587646245956421,1.0,0.031124550101364307,3.587646245956421,True,4.72873
+raw_era5,cache_wind_northern_area_proxy,3.4963152408599854,1.0,0.027663211708806465,3.4963152408599854,True,7.36945
+raw_era5,highland_valley_wind_project_area,2.957559823989868,1.0,0.01517681935613381,2.957559823989868,True,7.00627
+gwa_mean_corrected_hourly_unvalidated,pennask_mountain_summit,4.286016464233398,2.356899485640871,0.46484700615150243,10.10171,True,10.10171
+gwa_mean_corrected_hourly_unvalidated,mount_mabel_summit,3.687035322189331,2.293333060606302,0.3607333716765484,8.4556,True,8.4556
+gwa_mean_corrected_hourly_unvalidated,nicola_wind_project_regional_proxy,3.587646245956421,1.3180591607463183,0.08196147935463388,4.72873,True,4.72873
+gwa_mean_corrected_hourly_unvalidated,cache_wind_northern_area_proxy,3.4963152408599854,2.1077761850179573,0.27506884452050984,7.3694500000000005,True,7.36945
+gwa_mean_corrected_hourly_unvalidated,highland_valley_wind_project_area,2.957559823989868,2.3689360205563847,0.24678406951068318,7.00627,True,7.00627

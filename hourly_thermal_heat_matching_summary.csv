@@ -1,0 +1,9 @@
+case,IT_electricity_TWh,thermal_need_TWh,heat_capture_fraction_IT,available_server_heat_TWh,transfer_efficiency,heat_delivered_TWh,heat_demand_coverage_pct,peak_thermal_demand_MW,annual_unmet_at_demand_MWh,is_matched_hourly,heat_network_siting_validated,heat_grade_validated,accounting_rule
+capture_0.100_eta_0.65,32.861982366,4.819,0.1,3.2861982366,0.65,2.120375400161784,44.00031957173238,907.0110315261151,2698624.599838217,True,False,False,"min(eta * available_server_heat, customer_heat_demand)"
+capture_0.100_eta_0.85,32.861982366,4.819,0.1,3.2861982366,0.85,2.652440438848842,55.04130398109238,907.0110315261151,2166559.561151158,True,False,False,"min(eta * available_server_heat, customer_heat_demand)"
+capture_0.150_eta_0.65,32.861982366,4.819,0.15,4.9292973549,0.65,2.9535288841391014,61.28924847767382,907.0110315261151,1865471.115860898,True,False,False,"min(eta * available_server_heat, customer_heat_demand)"
+capture_0.150_eta_0.85,32.861982366,4.819,0.15,4.9292973549,0.85,3.5930469690329385,74.56001180811244,907.0110315261151,1225953.0309670619,True,False,False,"min(eta * available_server_heat, customer_heat_demand)"
+capture_0.250_eta_0.65,32.861982366,4.819,0.25,8.2154955915,0.65,4.190278699307479,86.95328282439259,907.0110315261151,628721.3006925208,True,False,False,"min(eta * available_server_heat, customer_heat_demand)"
+capture_0.250_eta_0.85,32.861982366,4.819,0.25,8.2154955915,0.85,4.728900791453927,98.13033391686919,907.0110315261151,90099.20854607291,True,False,False,"min(eta * available_server_heat, customer_heat_demand)"
+capture_0.443_eta_0.65,32.861982366,4.819,0.4433694789841578,14.570000000000002,0.65,4.819,100.0,907.0110315261151,0.0,True,False,False,"min(eta * available_server_heat, customer_heat_demand)"
+capture_0.443_eta_0.85,32.861982366,4.819,0.4433694789841578,14.570000000000002,0.85,4.819,100.0,907.0110315261151,0.0,True,False,False,"min(eta * available_server_heat, customer_heat_demand)"

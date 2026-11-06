@@ -1,0 +1,425 @@
+{
+ "engine_profile": {
+  "engine_twh": 4.184342571734847,
+  "hvo_twh": 4.088762571734846,
+  "b100_twh": 0.09558,
+  "hours_per_year": 1565.9375,
+  "peak_mw": 4298.5430124891645,
+  "mean_mw_when_running": 2672.100608607127,
+  "share_nov_feb": 0.7583424745772971,
+  "monthly_twh": [
+   0.9505106036243106,
+   0.5492638880024535,
+   0.21834144663483926,
+   0.042992722931299694,
+   0.024060493802941656,
+   0.0055227386002923515,
+   0.00921276599246821,
+   0.031234197366608953,
+   0.20501914579380462,
+   0.4747943602840572,
+   0.6855983207339722,
+   0.9877918879677985
+  ]
+ },
+ "timing_egr_repair": [
+  {
+   "solar_GW": 20,
+   "battery_GWh": 60,
+   "gas_gwh_30pct": 856.3964326161589,
+   "gas_free": false,
+   "lcoe": 287.3286291740372,
+   "extra_cad_mwh": 11.595417557559358
+  },
+  {
+   "solar_GW": 25,
+   "battery_GWh": 45,
+   "gas_gwh_30pct": 148.30680004525206,
+   "gas_free": false,
+   "lcoe": 284.94413566739996,
+   "extra_cad_mwh": 9.21092405092213
+  },
+  {
+   "solar_GW": 25,
+   "battery_GWh": 60,
+   "gas_gwh_30pct": 0.0,
+   "gas_free": true,
+   "lcoe": 297.3448902323279,
+   "extra_cad_mwh": 21.611678615850053
+  },
+  {
+   "solar_GW": 30,
+   "battery_GWh": 45,
+   "gas_gwh_30pct": 0.0,
+   "gas_free": true,
+   "lcoe": 297.43351046492626,
+   "extra_cad_mwh": 21.700298848448426
+  }
+ ],
+ "packages": [
+  {
+   "package": "Uncontrolled (fossil-diesel calibration)",
+   "g_kwh_hvo": 9.0,
+   "nox_t_yr": 37745.10514561362,
+   "vs_gas_twin": 41.933344715811835,
+   "reduction_vs_uncontrolled_pct": 0.0,
+   "peak_kg_h": 42555.57582364273,
+   "fuel_penalty_pct": 0.0,
+   "worst_year_fuel_ml_selected_40pctcap": 984.2265318319379,
+   "gas_gwh_selected_40pctcap": 0.0,
+   "within_ceiling": true,
+   "n2o_t_yr": 0.0,
+   "n2o_kt_co2e": 0.0,
+   "capex_m_cad": 0.0,
+   "annual_cost_m_cad": 0.0,
+   "cad_per_t_nox_avoided": 0.0,
+   "cad_per_mwh_load": 0.0
+  },
+  {
+   "package": "HVO only",
+   "g_kwh_hvo": 8.549999999999999,
+   "nox_t_yr": 35905.16198833293,
+   "vs_gas_twin": 39.88923938416418,
+   "reduction_vs_uncontrolled_pct": 4.874653680742247,
+   "peak_kg_h": 42555.57582364273,
+   "fuel_penalty_pct": 0.0,
+   "worst_year_fuel_ml_selected_40pctcap": 984.2265318319379,
+   "gas_gwh_selected_40pctcap": 0.0,
+   "within_ceiling": true,
+   "n2o_t_yr": 0.0,
+   "n2o_kt_co2e": 0.0,
+   "capex_m_cad": 0.0,
+   "annual_cost_m_cad": 0.0,
+   "cad_per_t_nox_avoided": 0.0,
+   "cad_per_mwh_load": 0.0
+  },
+  {
+   "package": "HVO + SCR 90%",
+   "g_kwh_hvo": 0.8549999999999998,
+   "nox_t_yr": 3590.516198833293,
+   "vs_gas_twin": 3.9889239384164172,
+   "reduction_vs_uncontrolled_pct": 90.48746536807423,
+   "peak_kg_h": 4255.557582364272,
+   "fuel_penalty_pct": 0.0,
+   "worst_year_fuel_ml_selected_40pctcap": 984.2265318319379,
+   "gas_gwh_selected_40pctcap": 0.0,
+   "within_ceiling": true,
+   "n2o_t_yr": 125.53027715204541,
+   "n2o_kt_co2e": 33.26552344529203,
+   "capex_m_cad": 408.0,
+   "annual_cost_m_cad": 96.28326793080484,
+   "cad_per_t_nox_avoided": 2819.0433818668816,
+   "cad_per_mwh_load": 2.6741742067822187
+  },
+  {
+   "package": "HVO + SCR 95%",
+   "g_kwh_hvo": 0.4275000000000004,
+   "nox_t_yr": 1795.2580994166485,
+   "vs_gas_twin": 1.9944619692082108,
+   "reduction_vs_uncontrolled_pct": 95.24373268403711,
+   "peak_kg_h": 2127.778791182139,
+   "fuel_penalty_pct": 0.0,
+   "worst_year_fuel_ml_selected_40pctcap": 984.2265318319379,
+   "gas_gwh_selected_40pctcap": 0.0,
+   "within_ceiling": true,
+   "n2o_t_yr": 125.53027715204541,
+   "n2o_kt_co2e": 33.26552344529203,
+   "capex_m_cad": 510.0,
+   "annual_cost_m_cad": 110.92897989156863,
+   "cad_per_t_nox_avoided": 3085.659300553366,
+   "cad_per_mwh_load": 3.0809446250191956
+  },
+  {
+   "package": "HVO + emulsion + SCR 95%",
+   "g_kwh_hvo": 0.3633750000000003,
+   "nox_t_yr": 1525.969384504151,
+   "vs_gas_twin": 1.6952926738269791,
+   "reduction_vs_uncontrolled_pct": 95.95717278143154,
+   "peak_kg_h": 1808.6119725048177,
+   "fuel_penalty_pct": 0.0,
+   "worst_year_fuel_ml_selected_40pctcap": 984.2265318319379,
+   "gas_gwh_selected_40pctcap": 0.0,
+   "within_ceiling": true,
+   "n2o_t_yr": 125.53027715204541,
+   "n2o_kt_co2e": 33.26552344529203,
+   "capex_m_cad": 561.0,
+   "annual_cost_m_cad": 117.3093253697568,
+   "cad_per_t_nox_avoided": 3238.876988768971,
+   "cad_per_mwh_load": 3.2581525207918265
+  },
+  {
+   "package": "HVO + emulsion + SCR 97%",
+   "g_kwh_hvo": 0.21802500000000016,
+   "nox_t_yr": 915.5816307024905,
+   "vs_gas_twin": 1.0171756042961873,
+   "reduction_vs_uncontrolled_pct": 97.57430366885893,
+   "peak_kg_h": 1085.1671835028906,
+   "fuel_penalty_pct": 0.0,
+   "worst_year_fuel_ml_selected_40pctcap": 984.2265318319379,
+   "gas_gwh_selected_40pctcap": 0.0,
+   "within_ceiling": true,
+   "n2o_t_yr": 125.53027715204541,
+   "n2o_kt_co2e": 33.26552344529203,
+   "capex_m_cad": 714.0,
+   "annual_cost_m_cad": 136.15414421791755,
+   "cad_per_t_nox_avoided": 3696.8749857106613,
+   "cad_per_mwh_load": 3.7815490524867355
+  },
+  {
+   "package": "HVO + retarded timing + EGR + SCR 95%",
+   "g_kwh_hvo": 0.29070000000000024,
+   "nox_t_yr": 1220.775507603321,
+   "vs_gas_twin": 1.3562341390615835,
+   "reduction_vs_uncontrolled_pct": 96.76573822514524,
+   "peak_kg_h": 1446.8895780038542,
+   "fuel_penalty_pct": 4.0,
+   "worst_year_fuel_ml_selected_40pctcap": 989.2795201372766,
+   "gas_gwh_selected_40pctcap": 175.7437126008938,
+   "within_ceiling": false,
+   "n2o_t_yr": 125.53027715204541,
+   "n2o_kt_co2e": 33.26552344529203,
+   "capex_m_cad": 637.5,
+   "annual_cost_m_cad": 180.48703565477186,
+   "cad_per_t_nox_avoided": 4941.55642125576,
+   "cad_per_mwh_load": 5.012852033163631
+  },
+  {
+   "package": "HVO + retarded timing + EGR + emulsion + SCR 97%",
+   "g_kwh_hvo": 0.14825700000000017,
+   "nox_t_yr": 622.5955088776939,
+   "vs_gas_twin": 0.6916794109214077,
+   "reduction_vs_uncontrolled_pct": 98.35052649482407,
+   "peak_kg_h": 737.9136847819658,
+   "fuel_penalty_pct": 4.0,
+   "worst_year_fuel_ml_selected_40pctcap": 989.2795201372766,
+   "gas_gwh_selected_40pctcap": 175.7437126008938,
+   "within_ceiling": false,
+   "n2o_t_yr": 125.53027715204541,
+   "n2o_kt_co2e": 33.26552344529203,
+   "capex_m_cad": 841.5,
+   "annual_cost_m_cad": 205.289955276138,
+   "cad_per_t_nox_avoided": 5530.066724610286,
+   "cad_per_mwh_load": 5.701729024252225
+  }
+ ],
+ "gas_twin_nox_t": 900.1215,
+ "recommended": "HVO + emulsion + SCR 97%",
+ "recommended_range_t": [
+  772.1449601705186,
+  3743.0562602733494
+ ],
+ "sensitivity": [
+  {
+   "baseline": 8.0,
+   "hvo_effect": 0.0,
+   "scr": "90%",
+   "nox_t_yr": 2851.8523887796946
+  },
+  {
+   "baseline": 8.0,
+   "hvo_effect": 0.0,
+   "scr": "95%",
+   "nox_t_yr": 1425.926194389849
+  },
+  {
+   "baseline": 8.0,
+   "hvo_effect": 0.0,
+   "scr": "97%",
+   "nox_t_yr": 855.5557166339095
+  },
+  {
+   "baseline": 8.0,
+   "hvo_effect": -0.1,
+   "scr": "90%",
+   "nox_t_yr": 2573.8165339017255
+  },
+  {
+   "baseline": 8.0,
+   "hvo_effect": -0.1,
+   "scr": "95%",
+   "nox_t_yr": 1286.9082669508641
+  },
+  {
+   "baseline": 8.0,
+   "hvo_effect": -0.1,
+   "scr": "97%",
+   "nox_t_yr": 772.1449601705186
+  },
+  {
+   "baseline": 8.0,
+   "hvo_effect": -0.05,
+   "scr": "90%",
+   "nox_t_yr": 2712.8344613407103
+  },
+  {
+   "baseline": 8.0,
+   "hvo_effect": -0.05,
+   "scr": "95%",
+   "nox_t_yr": 1356.4172306703565
+  },
+  {
+   "baseline": 8.0,
+   "hvo_effect": -0.05,
+   "scr": "97%",
+   "nox_t_yr": 813.850338402214
+  },
+  {
+   "baseline": 10.5,
+   "hvo_effect": 0.0,
+   "scr": "90%",
+   "nox_t_yr": 3743.0562602733494
+  },
+  {
+   "baseline": 10.5,
+   "hvo_effect": 0.0,
+   "scr": "95%",
+   "nox_t_yr": 1871.5281301366767
+  },
+  {
+   "baseline": 10.5,
+   "hvo_effect": 0.0,
+   "scr": "97%",
+   "nox_t_yr": 1122.9168780820062
+  },
+  {
+   "baseline": 10.5,
+   "hvo_effect": -0.1,
+   "scr": "90%",
+   "nox_t_yr": 3378.134200746015
+  },
+  {
+   "baseline": 10.5,
+   "hvo_effect": -0.1,
+   "scr": "95%",
+   "nox_t_yr": 1689.0671003730092
+  },
+  {
+   "baseline": 10.5,
+   "hvo_effect": -0.1,
+   "scr": "97%",
+   "nox_t_yr": 1013.4402602238055
+  },
+  {
+   "baseline": 10.5,
+   "hvo_effect": -0.05,
+   "scr": "90%",
+   "nox_t_yr": 3560.595230509682
+  },
+  {
+   "baseline": 10.5,
+   "hvo_effect": -0.05,
+   "scr": "95%",
+   "nox_t_yr": 1780.2976152548429
+  },
+  {
+   "baseline": 10.5,
+   "hvo_effect": -0.05,
+   "scr": "97%",
+   "nox_t_yr": 1068.1785691529058
+  },
+  {
+   "baseline": 9.0,
+   "hvo_effect": 0.0,
+   "scr": "90%",
+   "nox_t_yr": 3208.333937377157
+  },
+  {
+   "baseline": 9.0,
+   "hvo_effect": 0.0,
+   "scr": "95%",
+   "nox_t_yr": 1604.1669686885805
+  },
+  {
+   "baseline": 9.0,
+   "hvo_effect": 0.0,
+   "scr": "97%",
+   "nox_t_yr": 962.5001812131479
+  },
+  {
+   "baseline": 9.0,
+   "hvo_effect": -0.1,
+   "scr": "90%",
+   "nox_t_yr": 2895.5436006394407
+  },
+  {
+   "baseline": 9.0,
+   "hvo_effect": -0.1,
+   "scr": "95%",
+   "nox_t_yr": 1447.7718003197224
+  },
+  {
+   "baseline": 9.0,
+   "hvo_effect": -0.1,
+   "scr": "97%",
+   "nox_t_yr": 868.6630801918332
+  },
+  {
+   "baseline": 9.0,
+   "hvo_effect": -0.05,
+   "scr": "90%",
+   "nox_t_yr": 3051.938769008299
+  },
+  {
+   "baseline": 9.0,
+   "hvo_effect": -0.05,
+   "scr": "95%",
+   "nox_t_yr": 1525.969384504151
+  },
+  {
+   "baseline": 9.0,
+   "hvo_effect": -0.05,
+   "scr": "97%",
+   "nox_t_yr": 915.5816307024905
+  }
+ ],
+ "params": {
+  "baseline_g_kwh": 9.0,
+  "baseline_range": [
+   8.0,
+   10.5
+  ],
+  "hvo_effect": -0.05,
+  "hvo_range": [
+   0.0,
+   -0.1
+  ],
+  "b100_effect": 0.1,
+  "timing_retard": {
+   "nox": -0.15,
+   "fuel": 0.02
+  },
+  "egr_10pct": {
+   "nox": -0.2,
+   "fuel": 0.02
+  },
+  "emulsion": {
+   "nox": -0.15,
+   "fuel": 0.0
+  },
+  "scr": {
+   "90%": 0.9,
+   "95%": 0.95,
+   "97%": 0.97
+  },
+  "n2o_scr_g_kwh": 0.03,
+  "n2o_range": [
+   0.01,
+   0.1
+  ],
+  "gwp_n2o": 265.0,
+  "def_kg_per_kg_nox": 2.0,
+  "def_cad_per_kg": 0.75,
+  "scr_capex_cad_kw": {
+   "90%": 80.0,
+   "95%": 100.0,
+   "97%": 130.0
+  },
+  "egr_capex_cad_kw": 25.0,
+  "emulsion_capex_cad_kw": 10.0,
+  "om_frac": 0.03,
+  "crf": 0.0871845569768514,
+  "engine_mw": 5100.0,
+  "hvo_cad_l": 1.8,
+  "gas_twin_g_kwh": 0.025
+ }
+}

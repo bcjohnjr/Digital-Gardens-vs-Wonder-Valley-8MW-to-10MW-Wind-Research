@@ -1,0 +1,6 @@
+site_key,site,latitude,longitude,coordinate_type,coordinate_source
+highland_valley_wind_project_area,Highland Valley wind project area,50.5763,-121.0430,approximate_project_centroid,https://www.gem.wiki/Highland_Valley_Wind_Project
+mount_mabel_summit,Mount Mabel summit,50.3075,-120.572778,official_named_mountain,https://geonames.nrcan.gc.ca/search-place-names/unique?id=JAVTL
+pennask_mountain_summit,Pennask Mountain summit,49.886244,-120.120003,published_peak_location,https://www.peakbagger.com/peak.aspx?pid=2934
+nicola_wind_project_regional_proxy,Nicola wind project regional proxy,50.10,-120.80,approximate_regional_proxy,https://www.infracanada.ca/projects/cl12
+cache_wind_northern_area_proxy,Cache Wind northern-area proxy,50.946,-121.3246,offset_from_town_not_project_coordinate,https://bluearthrenewables.com/projects/cache-creek-wind/

@@ -1,0 +1,52 @@
+PASS 51 large-turbine archived-output checks. No proof of field performance, bankability or global optimality.
+- 8 MW independent five-site allocation
+- 8 MW wind total
+- 8 MW Nicola at most 0.2 GW
+- 8 MW each site at most 2 GW
+- 8 MW screened site CF at most 40%
+- 8 MW turbine count consistent
+- 8 MW baseline conditional gas zero
+- 8 MW baseline unserved load zero
+- 8 MW worst-year supply <= fuel ceiling
+- 8 MW 35% same-design cap not gas-free
+- 8 MW 10% GWA speed reduction not gas-free
+- 8 MW benchmark raw ERA5 requires substantial gas
+- 8 MW optimization not falsely certified
+- 10 MW independent five-site allocation
+- 10 MW wind total
+- 10 MW Nicola at most 0.2 GW
+- 10 MW each site at most 2 GW
+- 10 MW screened site CF at most 40%
+- 10 MW turbine count consistent
+- 10 MW baseline conditional gas zero
+- 10 MW baseline unserved load zero
+- 10 MW worst-year supply <= fuel ceiling
+- 10 MW 35% same-design cap not gas-free
+- 10 MW 10% GWA speed reduction not gas-free
+- 10 MW benchmark raw ERA5 requires substantial gas
+- 10 MW optimization not falsely certified
+- 8 MW manufacturer rated speed cited correctly
+- 10 MW assumed speed explicitly hypothetical
+- 10 MW 11.5 rated proxy loses gas-free condition
+- 8 MW selected matches common model
+- 8 MW selected solar
+- 8 MW selected battery
+- 8 MW selected cost
+- 8 MW reference independently feasible
+- 8 MW linked drying central
+- 8 MW linked drying updated capex
+- 8 MW NOx present
+- Gas NOx reference present
+- Facility emissions include N2O
+- Gas comparator emissions
+- Community avoidance separate
+- Joule_Research_Article Word and PDF supplied
+- Joule_Supplemental_Information Word and PDF supplied
+- Joule_Cover_Letter Word and PDF supplied
+- Joule_Highlights_and_eTOC Word and PDF supplied
+- Joule_Key_Resources_Table Word and PDF supplied
+- Wonder Valley explicitly retained
+- 10 MW turbine discussed
+- manuscript has six main figures
+- only one main table
+- unpublished DOI not fabricated
