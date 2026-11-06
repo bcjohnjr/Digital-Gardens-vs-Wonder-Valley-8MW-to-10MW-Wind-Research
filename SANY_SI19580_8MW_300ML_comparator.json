@@ -1,0 +1,55 @@
+{
+  "turbine": "SANY_SI19580_8MW",
+  "fuel_cap_ml": 300,
+  "search": {
+    "evaluations": 2576,
+    "success": false,
+    "message": "Maximum number of iterations has been exceeded."
+  },
+  "candidate": {
+    "wind_gw_by_site": {
+      "pennask_mountain_summit": 1.9078779483608281,
+      "mount_mabel_summit": 1.9730344319270925,
+      "nicola_wind_project_regional_proxy": 0.02508701545191276,
+      "cache_wind_northern_area_proxy": 1.987697111994918,
+      "highland_valley_wind_project_area": 1.939524064964637
+    },
+    "wind_gw": 7.833220572699388,
+    "solar_gw": 53.09569477032352,
+    "battery_gwh": 72.03107630467366,
+    "fuel_cap_ml": 300.0,
+    "stats": {
+      "hvo_ml_mean": 189.72219017025554,
+      "hvo_ml_max": 299.4005547902519,
+      "gas_gwh_max": 0.0,
+      "unserved_gwh_max": 0.0,
+      "gen_twh": 76.42478046951655,
+      "load_twh": 36.004859999999084,
+      "curtail_twh": 40.55619061941926
+    },
+    "cost": {
+      "capex_bn": 141.315195083404,
+      "tanks_bn": 0.07485013869756298,
+      "annual_debt_bn": 12.32702845362591,
+      "om_bn": 2.1111544343892836,
+      "fuel_bn": 0.37029994230645996,
+      "carry_bn": 0.0161676299586736,
+      "cash_yr1_bn": 14.824650460280328,
+      "cash_yr21_bn": 2.4976220066544172,
+      "pv_cost_bn": 178.90846244770944,
+      "lcoe_25y_cad_mwh": 388.709243076866,
+      "cost_after_payoff_cad_mwh": 69.3690242554611,
+      "fuel_lifecycle_mt": 0.17316892907790077
+    },
+    "qualified_dispatch": true,
+    "turbine_count_ceil_by_site": {
+      "pennask_mountain_summit": 239,
+      "mount_mabel_summit": 247,
+      "nicola_wind_project_regional_proxy": 4,
+      "cache_wind_northern_area_proxy": 249,
+      "highland_valley_wind_project_area": 243
+    },
+    "turbine_count_total_ceil": 982,
+    "approx_rotor_spacing_envelope_km2": 1306.91925
+  }
+}

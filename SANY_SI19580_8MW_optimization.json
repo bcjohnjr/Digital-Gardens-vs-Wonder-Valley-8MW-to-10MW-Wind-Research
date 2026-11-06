@@ -1,0 +1,170 @@
+{
+  "turbine": "SANY_SI19580_8MW",
+  "manufacturer_params": {
+    "rated_mw": 8.0,
+    "rotor_m": 195.0,
+    "cutin_ms": 3.0,
+    "rated_ms": 11.5,
+    "cutout_ms": 25.0,
+    "curve": "engineering cubic proxy; rated speed is manufacturer stated"
+  },
+  "site_cf_limit": 0.4,
+  "nicola_capacity_upper_bound_GW": 0.2,
+  "sites": [
+    {
+      "site_key": "pennask_mountain_summit",
+      "GWA_100m_mean_ms": 10.10171,
+      "target_mean_ratio": 1.0,
+      "initial_speed_multiplier": 2.3568994998931885,
+      "applied_speed_multiplier": 2.0164076089873135,
+      "raw_mean_ERA5_ms": 4.286016464233398,
+      "uncapped_cf": 0.4874716343135817,
+      "screened_cf": 0.40000002134750146,
+      "cap_activated": true
+    },
+    {
+      "site_key": "mount_mabel_summit",
+      "GWA_100m_mean_ms": 8.4556,
+      "target_mean_ratio": 1.0,
+      "initial_speed_multiplier": 2.293333053588867,
+      "applied_speed_multiplier": 2.293333053588867,
+      "raw_mean_ERA5_ms": 3.687035322189331,
+      "uncapped_cf": 0.38268272000960424,
+      "screened_cf": 0.38268272000960424,
+      "cap_activated": false
+    },
+    {
+      "site_key": "nicola_wind_project_regional_proxy",
+      "GWA_100m_mean_ms": 4.72873,
+      "target_mean_ratio": 1.0,
+      "initial_speed_multiplier": 1.3180592060089111,
+      "applied_speed_multiplier": 1.3180592060089111,
+      "raw_mean_ERA5_ms": 3.587646245956421,
+      "uncapped_cf": 0.09286639663091648,
+      "screened_cf": 0.09286639663091648,
+      "cap_activated": false
+    },
+    {
+      "site_key": "cache_wind_northern_area_proxy",
+      "GWA_100m_mean_ms": 7.36945,
+      "target_mean_ratio": 1.0,
+      "initial_speed_multiplier": 2.107776165008545,
+      "applied_speed_multiplier": 2.107776165008545,
+      "raw_mean_ERA5_ms": 3.4963152408599854,
+      "uncapped_cf": 0.29985981945683393,
+      "screened_cf": 0.29985981945683393,
+      "cap_activated": false
+    },
+    {
+      "site_key": "highland_valley_wind_project_area",
+      "GWA_100m_mean_ms": 7.00627,
+      "target_mean_ratio": 1.0,
+      "initial_speed_multiplier": 2.368936061859131,
+      "applied_speed_multiplier": 2.368936061859131,
+      "raw_mean_ERA5_ms": 2.957559823989868,
+      "uncapped_cf": 0.26904959074722756,
+      "screened_cf": 0.26904959074722756,
+      "cap_activated": false
+    }
+  ],
+  "candidate": {
+    "wind_gw_by_site": {
+      "pennask_mountain_summit": 1.8847338558875357,
+      "mount_mabel_summit": 1.9231646166546954,
+      "nicola_wind_project_regional_proxy": 0.10411188370044414,
+      "cache_wind_northern_area_proxy": 1.9230448703653304,
+      "highland_valley_wind_project_area": 1.9258717762211408
+    },
+    "wind_gw": 7.760927002829146,
+    "solar_gw": 21.2160814200575,
+    "battery_gwh": 43.33217546082649,
+    "fuel_cap_ml": 965.7311201372761,
+    "stats": {
+      "hvo_ml_mean": 746.601400846315,
+      "hvo_ml_max": 960.6781318319379,
+      "gas_gwh_max": 0.0,
+      "unserved_gwh_max": 0.0,
+      "gen_twh": 43.23343510773912,
+      "load_twh": 36.004859999999084,
+      "curtail_twh": 10.692648281902525
+    },
+    "cost": {
+      "capex_bn": 89.19309451728962,
+      "tanks_bn": 0.2401695329579845,
+      "annual_debt_bn": 7.797199505214608,
+      "om_bn": 1.2440241378742334,
+      "fuel_bn": 1.372682521523367,
+      "carry_bn": 0.05187661911892465,
+      "cash_yr1_bn": 10.465782783731132,
+      "cash_yr21_bn": 2.668583278516525,
+      "pv_cost_bn": 126.9097810630603,
+      "lcoe_25y_cad_mwh": 275.7332116164779,
+      "cost_after_payoff_cad_mwh": 74.11730745562107,
+      "fuel_lifecycle_mt": 0.6814604286224739
+    },
+    "qualified_dispatch": true,
+    "turbine_count_ceil_by_site": {
+      "pennask_mountain_summit": 236,
+      "mount_mabel_summit": 241,
+      "nicola_wind_project_regional_proxy": 14,
+      "cache_wind_northern_area_proxy": 241,
+      "highland_valley_wind_project_area": 241
+    },
+    "turbine_count_total_ceil": 973,
+    "approx_rotor_spacing_envelope_km2": 1294.941375
+  },
+  "search": {
+    "maxiter": 42,
+    "popsize": 8,
+    "seed": 313,
+    "evaluations": 2752,
+    "success": false,
+    "message": "Maximum number of iterations has been exceeded.",
+    "elapsed_seconds": 4.499666073999833
+  },
+  "case_warnings": [
+    "No proprietary manufacturer power curve supplied or used.",
+    "SANY 10MW assumed rated speed.",
+    "5 proxied GWA mean wind locations, no farm layouts.",
+    "GWA-corrected ERA5 hourly shape not validated in BC.",
+    "Transmission, transport, permits, procurement and farm wakes not validated."
+  ],
+  "stress": {
+    "central_40pct": {
+      "hvo_ml_mean": 746.601400846315,
+      "hvo_ml_max": 960.6781318319379,
+      "gas_gwh_max": 0.0,
+      "unserved_gwh_max": 0.0,
+      "gen_twh": 43.23343510773912,
+      "load_twh": 36.004859999999084,
+      "curtail_twh": 10.692648281902525
+    },
+    "cap35_same_installation": {
+      "hvo_ml_mean": 812.5360538316704,
+      "hvo_ml_max": 965.7311201372758,
+      "gas_gwh_max": 363.8416038004041,
+      "unserved_gwh_max": 0.0,
+      "gen_twh": 41.93962868126984,
+      "load_twh": 36.004859999999084,
+      "curtail_twh": 9.763085828531043
+    },
+    "GWA90pct_cap40": {
+      "hvo_ml_mean": 879.5606100473075,
+      "hvo_ml_max": 965.7311201372801,
+      "gas_gwh_max": 860.0885274174921,
+      "unserved_gwh_max": 0.0,
+      "gen_twh": 40.43032783578386,
+      "load_twh": 36.004859999999084,
+      "curtail_twh": 8.713879852045856
+    },
+    "raw_ERA5": {
+      "hvo_ml_mean": 965.731120137277,
+      "hvo_ml_max": 965.7311201372788,
+      "gas_gwh_max": 9152.926345318236,
+      "unserved_gwh_max": 0.0,
+      "gen_twh": 24.36683129576222,
+      "load_twh": 36.004859999999084,
+      "curtail_twh": 1.4931826712622045
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "matched_months": 120,
+  "all_2016_2025_r": 0.18733970135051753,
+  "excluding_2020_r": 0.24722157718269797,
+  "note": "Province-wide wind output divided by each year mean vs scaled ridge model; not project-level or capacity-corrected validation."
+}

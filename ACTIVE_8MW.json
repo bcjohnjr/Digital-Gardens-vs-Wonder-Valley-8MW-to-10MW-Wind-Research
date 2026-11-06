@@ -1,0 +1,6 @@
+{
+  "active_turbine": "SANY_SI19580_8MW",
+  "cf_cap": 0.4,
+  "hub_height_data_m": 100,
+  "power_curve_certified": false
+}
