@@ -1,0 +1,138 @@
+[
+  {
+    "community": "Lillooet",
+    "geocoded_name": "Lillooet",
+    "latitude": 50.6856,
+    "longitude": -121.942,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Cache Creek",
+    "geocoded_name": "Cache Creek",
+    "latitude": 50.81011,
+    "longitude": -121.3246,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Kamloops",
+    "geocoded_name": "Kamloops",
+    "latitude": 50.66648,
+    "longitude": -120.3192,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Chase",
+    "geocoded_name": "Chase",
+    "latitude": 50.8165,
+    "longitude": -119.68571,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Salmon Arm",
+    "geocoded_name": "Salmon Arm",
+    "latitude": 50.69981,
+    "longitude": -119.26907,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Vernon",
+    "geocoded_name": "Vernon",
+    "latitude": 50.26729,
+    "longitude": -119.27337,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Kelowna",
+    "geocoded_name": "Kelowna",
+    "latitude": 49.88307,
+    "longitude": -119.48568,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "West Kelowna",
+    "geocoded_name": "West Kelowna",
+    "latitude": 49.8625,
+    "longitude": -119.58333,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Penticton",
+    "geocoded_name": "Penticton",
+    "latitude": 49.48062,
+    "longitude": -119.58584,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Oliver",
+    "geocoded_name": "Oliver",
+    "latitude": 49.18306,
+    "longitude": -119.5524,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Osoyoos",
+    "geocoded_name": "Osoyoos",
+    "latitude": 49.032,
+    "longitude": -119.468,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Hope",
+    "geocoded_name": "Hope",
+    "latitude": 49.38299,
+    "longitude": -121.44144,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Agassiz / Kent",
+    "geocoded_name": "Agassiz / Kent",
+    "latitude": 49.23298,
+    "longitude": -121.76926,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Chilliwack",
+    "geocoded_name": "Chilliwack",
+    "latitude": 49.16638,
+    "longitude": -121.95257,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "Open-Meteo geocoder response captured in user's earlier run"
+  },
+  {
+    "community": "Abbotsford",
+    "geocoded_name": "Abbotsford",
+    "latitude": 49.05194,
+    "longitude": -122.32917,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "BC Geographical Names"
+  },
+  {
+    "community": "Mission",
+    "geocoded_name": "Mission",
+    "latitude": 49.15889,
+    "longitude": -122.28389,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "BC Geographical Names"
+  },
+  {
+    "community": "Maple Ridge",
+    "geocoded_name": "Maple Ridge",
+    "latitude": 49.21972,
+    "longitude": -122.59861,
+    "location_kind": "town/municipal proxy, not project-site coordinate",
+    "coordinate_source": "BC Geographical Names"
+  }
+]
